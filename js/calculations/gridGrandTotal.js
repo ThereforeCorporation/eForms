@@ -1,3 +1,4 @@
+//Whitepaper - 2.4.2  - Sum & Calculations
 //To calculate a grand total of all lines from your grid
 //editGrid = API Name of Edit Grid Component
 //totalPrice = API Name of column to sum up

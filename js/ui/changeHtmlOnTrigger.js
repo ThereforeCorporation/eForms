@@ -1,3 +1,4 @@
+//Whitepaper - 2.5.1 - Change HTML According to Trigger
 //this sample changes a logo when a certain selection is done
 if (data.select === "1") {
   instance.htmlElement.innerHTML =
