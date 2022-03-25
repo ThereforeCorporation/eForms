@@ -1,0 +1,66 @@
+<!-- In this example, the table contains multiple columns that need to be hidden in the user interface when
+    rows are added. All of the components that have an API as below would be hidden. Only the components that are
+    not listed will be shown in the result table. 
+    API Keys hidden: select, devise, A4, A3, A, upload2, monnaie2, B
+-->
+
+<div class="row">
+    {% util.eachComponent(components, function(component) { %}
+    {% if (!component.hasOwnProperty('tableView') || component.tableView) { %}
+    {% if (component.key !== 'select') { %}
+    {% if (component.key !== 'devise') { %}
+    {% if (component.key !== 'A4') { %}
+    {% if (component.key !== 'A3') { %}
+    {% if (component.key !== 'A') { %}
+    {% if (component.key !== 'upload2') { %}
+    {% if (component.key !== 'monnaie2') { %}
+    {% if (component.key !== 'B') { %}
+    <div class="col-sm-2">{{ component.label }}</div>
+    {% } %}
+    {% } %}
+    {% } %}
+   eForms Advanced Features
+   30 © 2020 Therefore Corporation
+    {% } %}
+    {% } %}
+    {% } %}
+    {% } %}
+    {% } %}
+    {% } %}
+    {% }) %}
+   </div>
+
+   <!-- Same for the row template 
+        API Keys hidden: select, devise, A4, A3, A, upload2, monnaie2, B
+    -->
+
+   <div class="row">
+    {%util.eachComponent(components, function(component) { %}
+    {% if (component.key !== 'select') { %}
+    {% if (component.key !== 'devise') { %}
+    {% if (component.key !== 'A4') { %}
+    {% if (component.key !== 'A3') { %}
+    {% if (component.key !== 'A') { %}
+    {% if (component.key !== 'upload2') { %}
+    {% if (component.key !== 'monnaie2') { %}
+     {% if (component.key !== 'B') { %}
+    <div class="col-sm-2">
+    {{ row[component.key] }}
+    </div>
+    {% } %}
+    {% } %}
+    {% } %}
+    {% } %}
+    {% } %}
+    {% } %}
+    {% } %}
+    {% } %}
+    {% }) %}
+    <div class="col-sm-2">
+    <div class="btn-group pull-right">
+    <div class="btn btn-default btn-sm editRow"><i class="fa fa-edit"></i></div>
+    <div class="btn btn-danger btn-sm removeRow"><i class="fa fa-trash"></i></div>
+    </div>
+    </div>
+    </div>
+
