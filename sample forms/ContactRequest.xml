@@ -1,0 +1,471 @@
+<Configuration><Version>352321537</Version><Folders><Folder><FolderNo>-1</FolderNo><Type>3</Type><Name UPT="1"><TStr><T><L>1033</L><S>Communication</S></T></TStr></Name><Id>3380FC54-8477-4F68-ACFE-EA8BD72079BB</Id></Folder>
+<Folder><FolderNo>-2</FolderNo><Type>47</Type><Name UPT="1"><TStr><T><L>1033</L><S>Communication</S></T></TStr></Name><Id>7F882335-35F3-4CD9-9332-CA9D61B551A9</Id></Folder>
+</Folders><Datatypes></Datatypes><KeywordDictionaries></KeywordDictionaries><Counters></Counters><CloudStorages></CloudStorages><Templates></Templates><CaseDefinitions></CaseDefinitions><Categories><Category><CtgryNo>-1</CtgryNo><Name UPT="1"><TStr><T><L>1033</L><S>Contact Request</S></T></TStr></Name><Version>0</Version><Fields><Field><FieldNo>-12</FieldNo><ColName>Country</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Country</S></T></TStr></Caption><TypeNo>1</TypeNo><Length>50</Length><Width>104</Width><Height>12</Height><PosX>80</PosX><PosY>103</PosY><TabOrderPos>6</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>6</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>F06C6724-1CA3-4924-BC28-E1F5C450450B</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Country</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-11</FieldNo><ColName>Company</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Company</S></T></TStr></Caption><TypeNo>1</TypeNo><Length>50</Length><Width>104</Width><Height>12</Height><PosX>80</PosX><PosY>83</PosY><TabOrderPos>5</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>5</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>700CB0F7-C932-48ED-85C7-678C383ABBA1</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Company</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-10</FieldNo><ColName>Phone</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Phone</S></T></TStr></Caption><TypeNo>1</TypeNo><Length>50</Length><Width>104</Width><Height>12</Height><PosX>80</PosX><PosY>65</PosY><TabOrderPos>4</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>4</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>15D29B6D-7D64-44F4-8D12-D028B46BCC9C</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Phone</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-9</FieldNo><ColName>Email</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Email</S></T></TStr></Caption><TypeNo>1</TypeNo><Length>50</Length><Width>104</Width><Height>12</Height><PosX>80</PosX><PosY>46</PosY><TabOrderPos>3</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>3</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>D920D5EC-024D-4E2B-A39A-A4E45B72DF27</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Email</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-8</FieldNo><ColName>Given_Name</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Given Name</S></T></TStr></Caption><TypeNo>1</TypeNo><Length>50</Length><Width>104</Width><Height>12</Height><PosX>80</PosX><PosY>29</PosY><TabOrderPos>2</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>2</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>1DD9F3E8-5593-446E-804B-75C245C57372</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Given_Name</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-7</FieldNo><ColName>Name</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Name</S></T></TStr></Caption><TypeNo>1</TypeNo><Length>50</Length><Width>104</Width><Height>12</Height><PosX>80</PosX><PosY>11</PosY><TabOrderPos>1</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>1</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>0BDA7831-D110-43B0-9247-33B27A58E419</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Name</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-6</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Country</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>13</PosX><PosY>104</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>92769602-CEF7-4278-B300-52AB0A5C5728</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Country</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-5</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Company</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>13</PosX><PosY>84</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>22B1D982-6049-4C75-9962-1D641DE4C6B7</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Company</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-4</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Phone</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>13</PosX><PosY>65</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>F960EE82-8B90-4729-9726-AABBAF844230</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Phone</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-3</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Email</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>13</PosX><PosY>47</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>843AC260-0675-4A04-B0E3-000BED7C228A</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Email</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-2</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Given Name</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>13</PosX><PosY>30</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>B4D76B37-B79C-4C8B-82AA-170B79A7972E</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Given_Name</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-1</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Name</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>13</PosX><PosY>12</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>4487E261-05CD-43A5-9E8F-702C9D96FBEF</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Name</FieldID><DisplayPropCond></DisplayPropCond></Field></Fields><Title>Contact Request</Title><Width>289</Width><Height>139</Height><FolderNo>-1</FolderNo><Watermark><DocNo>0</DocNo></Watermark><FulltextMode>1</FulltextMode><FulltextDate>18991230</FulltextDate><CheckInMode>1</CheckInMode><Description UPT="1"><TStr></TStr></Description><Header><Font></Font></Header><Id>678E25F1-3AAB-4AC8-AB86-BE825195D4B7</Id><EmptyDocMode>1</EmptyDocMode><CoverMode>1</CoverMode></Category>
+</Categories><QueryTemplates></QueryTemplates><Queries></Queries><TreeViews></TreeViews><CommonScripts></CommonScripts><CaptProfiles></CaptProfiles><IxProfiles><IxProfile><Name>EForms - Contact Request</Name><InitScript></InitScript><Filter></Filter><FolderNo>0</FolderNo><IndexingProfileNo>-1</IndexingProfileNo><AutoAppendMode>0</AutoAppendMode><ProfileType>14</ProfileType><Assignments><Assignment><FieldNo>-7</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.name")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment><Assignment><FieldNo>-8</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.givenName")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment><Assignment><FieldNo>-9</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.email2")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment><Assignment><FieldNo>-10</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.phoneNumber")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment><Assignment><FieldNo>-11</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.companyName")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment><Assignment><FieldNo>-12</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.country")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment></Assignments><Id>79CDA500-B792-4D1D-BE4B-3810C11DC408</Id><DataExes></DataExes><SourceDefId><DefNo>0</DefNo><IsCase>0</IsCase></SourceDefId><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId><CommonScripts></CommonScripts></IxProfile>
+</IxProfiles><OfficeProfiles></OfficeProfiles><UCProfiles></UCProfiles><EForms><EForm><FNo>-1</FNo><FVer>1</FVer><FName>Contact Request</FName><FDef>{
+    "components": [
+        {
+            "label": "Name",
+            "allowMultipleMasks": false,
+            "showWordCount": false,
+            "showCharCount": false,
+            "tableView": true,
+            "alwaysEnabled": false,
+            "type": "textfield",
+            "input": true,
+            "key": "name",
+            "defaultValue": "",
+            "validate": {
+                "required": true,
+                "customMessage": "",
+                "json": ""
+            },
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "widget": {
+                "type": ""
+            },
+            "reorder": false,
+            "inputFormat": "plain",
+            "encrypted": false,
+            "properties": {},
+            "customConditional": "",
+            "logic": []
+        },
+        {
+            "label": "Given Name",
+            "allowMultipleMasks": false,
+            "showWordCount": false,
+            "showCharCount": false,
+            "tableView": true,
+            "alwaysEnabled": false,
+            "type": "textfield",
+            "input": true,
+            "key": "givenName",
+            "defaultValue": "",
+            "validate": {
+                "required": true,
+                "customMessage": "",
+                "json": ""
+            },
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "widget": {
+                "type": ""
+            },
+            "reorder": false,
+            "inputFormat": "plain",
+            "encrypted": false,
+            "properties": {},
+            "customConditional": "",
+            "logic": []
+        },
+        {
+            "label": "Phone Number",
+            "allowMultipleMasks": false,
+            "showWordCount": false,
+            "showCharCount": false,
+            "tableView": true,
+            "alwaysEnabled": false,
+            "type": "textfield",
+            "input": true,
+            "key": "phoneNumber",
+            "defaultValue": "",
+            "validate": {
+                "customMessage": "",
+                "json": "",
+                "required": true
+            },
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "inputFormat": "plain",
+            "encrypted": false,
+            "properties": {},
+            "customConditional": "",
+            "logic": [],
+            "widget": {
+                "type": ""
+            },
+            "reorder": false
+        },
+        {
+            "label": "Email",
+            "tableView": true,
+            "alwaysEnabled": false,
+            "type": "email",
+            "input": true,
+            "key": "email2",
+            "defaultValue": "",
+            "validate": {
+                "required": true,
+                "customMessage": "",
+                "json": ""
+            },
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "reorder": false,
+            "encrypted": false,
+            "properties": {},
+            "customConditional": "",
+            "logic": []
+        },
+        {
+            "label": "Company Name",
+            "allowMultipleMasks": false,
+            "showWordCount": false,
+            "showCharCount": false,
+            "tableView": true,
+            "alwaysEnabled": false,
+            "type": "textfield",
+            "input": true,
+            "key": "companyName",
+            "defaultValue": "",
+            "validate": {
+                "required": true,
+                "customMessage": "",
+                "json": ""
+            },
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "widget": {
+                "type": ""
+            },
+            "reorder": false,
+            "inputFormat": "plain",
+            "encrypted": false,
+            "properties": {},
+            "customConditional": "",
+            "logic": []
+        },
+        {
+            "label": "Role in Company",
+            "mask": false,
+            "tableView": true,
+            "alwaysEnabled": false,
+            "type": "select",
+            "input": true,
+            "key": "roleInCompany",
+            "defaultValue": "",
+            "validate": {
+                "select": false,
+                "customMessage": "",
+                "json": ""
+            },
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "data": {
+                "values": [
+                    {
+                        "label": "President/CEO",
+                        "value": "presidentCeo"
+                    },
+                    {
+                        "label": "Partner/VP",
+                        "value": "partnerVp"
+                    },
+                    {
+                        "label": "Director",
+                        "value": "director"
+                    },
+                    {
+                        "label": "Manager",
+                        "value": "manager"
+                    },
+                    {
+                        "label": "Employee",
+                        "value": "employee"
+                    },
+                    {
+                        "label": "Other",
+                        "value": "other"
+                    }
+                ]
+            },
+            "valueProperty": "value",
+            "selectThreshold": 0.3,
+            "encrypted": false,
+            "properties": {},
+            "customConditional": "",
+            "logic": [],
+            "dataSrc": "values",
+            "reorder": false,
+            "lazyLoad": false,
+            "selectValues": "",
+            "disableLimit": false,
+            "sort": "",
+            "reference": false
+        },
+        {
+            "label": "Company Area",
+            "mask": false,
+            "tableView": true,
+            "alwaysEnabled": false,
+            "type": "select",
+            "input": true,
+            "key": "companyArea",
+            "defaultValue": "",
+            "validate": {
+                "customMessage": "",
+                "json": "",
+                "select": false
+            },
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "data": {
+                "values": [
+                    {
+                        "label": "Finance/Accounting",
+                        "value": "financeAccounting"
+                    },
+                    {
+                        "label": "IT/MIS",
+                        "value": "itMis"
+                    },
+                    {
+                        "label": "Manufactoring/Opertations",
+                        "value": "manufactoringOpertations"
+                    },
+                    {
+                        "label": "Marketing",
+                        "value": "marketing"
+                    },
+                    {
+                        "label": "Engineering",
+                        "value": "engineering"
+                    },
+                    {
+                        "label": "Support",
+                        "value": "support"
+                    },
+                    {
+                        "label": "Education",
+                        "value": "education"
+                    }
+                ]
+            },
+            "valueProperty": "value",
+            "selectThreshold": 0.3,
+            "encrypted": false,
+            "properties": {},
+            "customConditional": "",
+            "logic": [],
+            "dataSrc": "values",
+            "reorder": false,
+            "lazyLoad": false,
+            "selectValues": "",
+            "disableLimit": false,
+            "sort": "",
+            "reference": false
+        },
+        {
+            "label": "Country",
+            "mask": false,
+            "tableView": true,
+            "alwaysEnabled": false,
+            "type": "select",
+            "input": true,
+            "key": "country",
+            "defaultValue": "",
+            "validate": {
+                "select": false,
+                "customMessage": "",
+                "json": ""
+            },
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "data": {
+                "url": "https://restcountries.eu/rest/v2/all",
+                "headers": [
+                    {
+                        "key": "",
+                        "value": ""
+                    }
+                ],
+                "values": []
+            },
+            "valueProperty": "name",
+            "selectThreshold": 0.3,
+            "encrypted": false,
+            "properties": {},
+            "customConditional": "",
+            "logic": [],
+            "dataSrc": "url",
+            "template": "&lt;span&gt;{{ item.name }}&lt;/span&gt;",
+            "lazyLoad": false,
+            "selectValues": "",
+            "disableLimit": false,
+            "sort": "",
+            "reorder": false,
+            "reference": false
+        },
+        {
+            "label": "Preferred communication method",
+            "mask": false,
+            "tableView": true,
+            "alwaysEnabled": false,
+            "type": "select",
+            "input": true,
+            "key": "preferredCommunicationMethod",
+            "defaultValue": "",
+            "validate": {
+                "select": false,
+                "customMessage": "",
+                "json": ""
+            },
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "data": {
+                "values": [
+                    {
+                        "label": "Email",
+                        "value": "email"
+                    },
+                    {
+                        "label": "Phone",
+                        "value": "phone"
+                    }
+                ]
+            },
+            "valueProperty": "value",
+            "selectThreshold": 0.3,
+            "encrypted": false,
+            "properties": {},
+            "customConditional": "",
+            "logic": [],
+            "dataSrc": "values",
+            "reorder": false,
+            "lazyLoad": false,
+            "selectValues": "",
+            "disableLimit": false,
+            "sort": "",
+            "reference": false
+        },
+        {
+            "label": "Information about your inquiry",
+            "isUploadEnabled": false,
+            "showWordCount": false,
+            "showCharCount": false,
+            "tableView": true,
+            "alwaysEnabled": false,
+            "rows": 5,
+            "type": "textarea",
+            "input": true,
+            "key": "informationAboutYourInquiry",
+            "defaultValue": "",
+            "validate": {
+                "customMessage": "",
+                "json": ""
+            },
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "inputFormat": "plain",
+            "encrypted": false,
+            "properties": {},
+            "customConditional": "",
+            "logic": [],
+            "wysiwyg": "",
+            "uploadUrl": "",
+            "uploadOptions": "",
+            "uploadDir": "",
+            "reorder": false
+        },
+        {
+            "label": "How did you find us",
+            "mask": false,
+            "tableView": true,
+            "alwaysEnabled": false,
+            "type": "select",
+            "input": true,
+            "key": "howDidYouFindUs",
+            "defaultValue": "",
+            "validate": {
+                "select": false,
+                "customMessage": "",
+                "json": ""
+            },
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "data": {
+                "values": [
+                    {
+                        "label": "Recommendation",
+                        "value": "recommendation"
+                    },
+                    {
+                        "label": "Ads",
+                        "value": "ads"
+                    },
+                    {
+                        "label": "Search Engine",
+                        "value": "searchEngine"
+                    },
+                    {
+                        "label": "Link from another page",
+                        "value": "linkFromAnotherPage"
+                    },
+                    {
+                        "label": "Other",
+                        "value": "other"
+                    }
+                ]
+            },
+            "valueProperty": "value",
+            "selectThreshold": 0.3,
+            "encrypted": false,
+            "reorder": false,
+            "lazyLoad": false,
+            "selectValues": "",
+            "disableLimit": false,
+            "sort": "",
+            "reference": false,
+            "properties": {},
+            "customConditional": "",
+            "logic": []
+        },
+        {
+            "type": "button",
+            "label": "Submit",
+            "key": "submit",
+            "disableOnInvalid": true,
+            "theme": "primary",
+            "input": true,
+            "tableView": true
+        }
+    ],
+    "settings": {},
+    "display": null
+}</FDef><DCrea>20190606093220804</DCrea><FFold>-2</FFold><FCreUs>1</FCreUs><FCreUsNam>ADOS\gogg</FCreUsNam><IxProfNo>-1</IxProfNo><Id>F8E31C38-9AFE-46A5-8A40-0E53BC6674BE</Id></EForm>
+</EForms><WFProcesses></WFProcesses><Preprocessors></Preprocessors><FormImgs></FormImgs><Forms></Forms><CntConnSrcs></CntConnSrcs><ReportDefinitions></ReportDefinitions><PowerBIDataSets></PowerBIDataSets><PowerBITables></PowerBITables><References></References></Configuration>

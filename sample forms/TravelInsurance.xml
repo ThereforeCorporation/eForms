@@ -1,0 +1,2191 @@
+<Configuration><Version>352321537</Version><Folders><Folder><FolderNo>-1</FolderNo><Type>3</Type><Name UPT="1"><TStr><T><L>1033</L><S>Insurance</S></T></TStr></Name><Id>95BD0276-00F7-43E5-A498-3DA946818485</Id></Folder>
+<Folder><FolderNo>-2</FolderNo><Type>47</Type><Name UPT="1"><TStr><T><L>1033</L><S>Insurance</S></T></TStr></Name><Id>EC5E5CA0-12DA-4198-93A3-9D12B9A49F1C</Id></Folder>
+</Folders><Datatypes></Datatypes><KeywordDictionaries></KeywordDictionaries><Counters></Counters><CloudStorages></CloudStorages><Templates></Templates><CaseDefinitions></CaseDefinitions><Categories><Category><CtgryNo>-1</CtgryNo><Name UPT="1"><TStr><T><L>1033</L><S>Travel Insurance Applications</S></T></TStr></Name><Version>0</Version><Fields><Field><FieldNo>-9</FieldNo><ColName>Days_of_Coverage</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Days of Coverage</S></T></TStr></Caption><TypeNo>2</TypeNo><Length>10</Length><Width>153</Width><Height>12</Height><PosX>99</PosX><PosY>95</PosY><TabOrderPos>4</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>4</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>4B31D50B-ACBF-4775-B7C3-C09E73B6412B</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Days_of_Coverage</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-8</FieldNo><ColName>Date_of_Departure</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Date of Departure</S></T></TStr></Caption><TypeNo>3</TypeNo><Length>4</Length><Width>153</Width><Height>12</Height><PosX>99</PosX><PosY>70</PosY><TabOrderPos>3</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>3</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>566B6465-6537-455E-A8F0-99F7CC41406B</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Date_of_Departure</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-7</FieldNo><ColName>Persons_to_Insure</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Persons to Insure</S></T></TStr></Caption><TypeNo>2</TypeNo><Length>10</Length><Width>76</Width><Height>12</Height><PosX>99</PosX><PosY>46</PosY><TabOrderPos>2</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>2</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>9C36F903-DCB9-4DDE-A131-1903B4633ED5</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Persons_to_Insure</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-6</FieldNo><ColName>Main_Applicant_Name</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Main Applicant Name</S></T></TStr></Caption><TypeNo>1</TypeNo><Length>50</Length><Width>153</Width><Height>12</Height><PosX>99</PosX><PosY>21</PosY><TabOrderPos>1</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>1</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>35F985F4-C118-4463-8D41-35AD65B4D4C6</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Main_Applicant_Name</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-5</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Days of Coverage</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>33</PosX><PosY>96</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>0AA0FDA6-FEE3-48C7-8F91-566B2A37418C</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Days_of_Coverage</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-4</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Date of Departure</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>33</PosX><PosY>71</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>ECEFF98F-410A-40B7-95A6-FC151DCA6616</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Date_of_Departure</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-3</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Persons to Insure</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>33</PosX><PosY>47</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>6706F2D1-4D83-4EE2-804E-BE8647FB57F0</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Persons_to_Insure</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-2</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Main Applicant Name</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>33</PosX><PosY>22</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>B07047B0-6D05-4D97-A1AC-416FEABE29B7</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Main_Applicant_Name</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-1</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>(number)</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>47</Width><Height>12</Height><PosX>177</PosX><PosY>48</PosY><DontLoadValues>1</DontLoadValues><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>9C345BF0-D31C-4F5F-9C39-6AE5DC5164A9</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>number</FieldID><DisplayPropCond></DisplayPropCond></Field></Fields><Title>Travel Insurance Applications</Title><Width>289</Width><Height>147</Height><FolderNo>-1</FolderNo><Watermark><DocNo>0</DocNo></Watermark><FulltextMode>1</FulltextMode><FulltextDate>18991230</FulltextDate><CheckInMode>1</CheckInMode><Description UPT="1"><TStr></TStr></Description><Header><Font></Font></Header><Id>123E5638-751C-4399-B7DB-0AB9C158DBE2</Id><EmptyDocMode>1</EmptyDocMode><CoverMode>1</CoverMode></Category>
+</Categories><QueryTemplates></QueryTemplates><Queries></Queries><TreeViews></TreeViews><CommonScripts></CommonScripts><CaptProfiles></CaptProfiles><IxProfiles><IxProfile><Name>EForms - Travel Insurance Application</Name><InitScript></InitScript><Filter></Filter><FolderNo>0</FolderNo><IndexingProfileNo>-1</IndexingProfileNo><AutoAppendMode>0</AutoAppendMode><ProfileType>14</ProfileType><Assignments><Assignment><FieldNo>-6</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValues("data.dataGrid[].fullName2")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment><Assignment><FieldNo>-7</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.totalNumberOfPersons")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment><Assignment><FieldNo>-8</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.dateTime")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment><Assignment><FieldNo>-9</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.number")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment></Assignments><Id>48195955-2F4A-4043-857A-B00FE229DD88</Id><DataExes></DataExes><SourceDefId><DefNo>0</DefNo><IsCase>0</IsCase></SourceDefId><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId><CommonScripts></CommonScripts></IxProfile>
+</IxProfiles><OfficeProfiles></OfficeProfiles><UCProfiles></UCProfiles><EForms><EForm><FNo>-1</FNo><FVer>1</FVer><FName>Travel Insurance Application</FName><FDef>{
+    "components": [
+        {
+            "label": "Page 1",
+            "title": "Insured Persons",
+            "hideLabel": true,
+            "breadcrumbClickable": true,
+            "buttonSettings": {
+                "previous": true,
+                "cancel": true,
+                "next": true
+            },
+            "collapsible": false,
+            "mask": false,
+            "tableView": false,
+            "alwaysEnabled": false,
+            "type": "panel",
+            "key": "page1",
+            "input": false,
+            "components": [
+                {
+                    "label": "HTML",
+                    "className": "",
+                    "attrs": [
+                        {
+                            "attr": "",
+                            "value": ""
+                        }
+                    ],
+                    "content": "&lt;h1&gt;Moyasure Travel Insurance Application&lt;/h1&gt;",
+                    "refreshOnChange": false,
+                    "mask": false,
+                    "tableView": true,
+                    "alwaysEnabled": false,
+                    "type": "htmlelement",
+                    "input": false,
+                    "key": "html",
+                    "validate": {
+                        "customMessage": "",
+                        "json": ""
+                    },
+                    "conditional": {
+                        "show": "",
+                        "when": "",
+                        "json": ""
+                    },
+                    "encrypted": false,
+                    "properties": {},
+                    "customConditional": "",
+                    "logic": [],
+                    "reorder": false
+                },
+                {
+                    "label": "HTML",
+                    "className": "",
+                    "attrs": [
+                        {
+                            "attr": "",
+                            "value": ""
+                        }
+                    ],
+                    "content": "&lt;p&gt;Please complete the following details for all related persons who will be traveling with you.&lt;/p&gt;",
+                    "refreshOnChange": false,
+                    "mask": false,
+                    "tableView": true,
+                    "alwaysEnabled": false,
+                    "type": "htmlelement",
+                    "input": false,
+                    "key": "html2",
+                    "validate": {
+                        "customMessage": "",
+                        "json": ""
+                    },
+                    "conditional": {
+                        "show": "",
+                        "when": "",
+                        "json": ""
+                    },
+                    "reorder": false,
+                    "encrypted": false,
+                    "properties": {},
+                    "customConditional": "",
+                    "logic": []
+                },
+                {
+                    "label": "Panel",
+                    "title": "Persons to Insure",
+                    "breadcrumbClickable": true,
+                    "buttonSettings": {
+                        "previous": true,
+                        "cancel": true,
+                        "next": true
+                    },
+                    "collapsible": false,
+                    "mask": false,
+                    "tableView": false,
+                    "alwaysEnabled": false,
+                    "type": "panel",
+                    "input": false,
+                    "key": "panel2",
+                    "conditional": {
+                        "show": "",
+                        "when": "",
+                        "json": ""
+                    },
+                    "components": [
+                        {
+                            "label": "Data Grid",
+                            "hideLabel": true,
+                            "disableAddingRemovingRows": false,
+                            "addAnother": "",
+                            "addAnotherPosition": "bottom",
+                            "removePlacement": "col",
+                            "defaultOpen": false,
+                            "layoutFixed": false,
+                            "enableRowGroups": false,
+                            "reorder": false,
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "datagrid",
+                            "input": true,
+                            "key": "dataGrid",
+                            "defaultValue": [
+                                {
+                                    "fullName2": "",
+                                    "dateOfBirth2": "",
+                                    "relation": ""
+                                }
+                            ],
+                            "validate": {
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "",
+                                "when": "",
+                                "json": ""
+                            },
+                            "components": [
+                                {
+                                    "label": "Panel",
+                                    "title": "Persons",
+                                    "hideLabel": true,
+                                    "breadcrumbClickable": true,
+                                    "buttonSettings": {
+                                        "previous": true,
+                                        "cancel": true,
+                                        "next": true
+                                    },
+                                    "collapsible": false,
+                                    "mask": false,
+                                    "tableView": false,
+                                    "alwaysEnabled": false,
+                                    "type": "panel",
+                                    "input": false,
+                                    "key": "panel3",
+                                    "conditional": {
+                                        "show": "",
+                                        "when": "",
+                                        "json": ""
+                                    },
+                                    "components": [
+                                        {
+                                            "label": "Full Name",
+                                            "allowMultipleMasks": false,
+                                            "showWordCount": false,
+                                            "showCharCount": false,
+                                            "tableView": true,
+                                            "alwaysEnabled": false,
+                                            "type": "textfield",
+                                            "input": true,
+                                            "key": "fullName2",
+                                            "defaultValue": "",
+                                            "validate": {
+                                                "customMessage": "",
+                                                "json": "",
+                                                "required": true
+                                            },
+                                            "conditional": {
+                                                "show": "",
+                                                "when": "",
+                                                "json": ""
+                                            },
+                                            "inputFormat": "plain",
+                                            "encrypted": false,
+                                            "properties": {},
+                                            "customConditional": "",
+                                            "logic": [],
+                                            "reorder": false
+                                        },
+                                        {
+                                            "label": "Date of Birth",
+                                            "format": "yyyy-MM-dd",
+                                            "mask": false,
+                                            "tableView": true,
+                                            "alwaysEnabled": false,
+                                            "type": "datetime",
+                                            "input": true,
+                                            "key": "dateOfBirth2",
+                                            "suffix": true,
+                                            "defaultValue": "",
+                                            "widget": {
+                                                "type": "calendar",
+                                                "displayInTimezone": "viewer",
+                                                "language": "en",
+                                                "useLocaleSettings": false,
+                                                "allowInput": true,
+                                                "mode": "single",
+                                                "enableTime": false,
+                                                "noCalendar": false,
+                                                "format": "yyyy-MM-dd",
+                                                "defaultDate": "",
+                                                "hourIncrement": 1,
+                                                "minuteIncrement": 1,
+                                                "time_24hr": true,
+                                                "minDate": "",
+                                                "maxDate": "",
+                                                "icons": "",
+                                                "i18n": {
+                                                    "lng": "en",
+                                                    "resources": {
+                                                        "en": {
+                                                            "translation": {
+                                                                "complete": "Submission Complete",
+                                                                "error": "Please fix the following errors before submitting.",
+                                                                "required": "{{field}} is required",
+                                                                "pattern": "{{field}} does not match the pattern {{pattern}}",
+                                                                "minLength": "{{field}} must be longer than {{length}} characters.",
+                                                                "maxLength": "{{field}} must be shorter than {{length}} characters.",
+                                                                "min": "{{field}} cannot be less than {{min}}.",
+                                                                "max": "{{field}} cannot be greater than {{max}}.",
+                                                                "minSelectedCount": "You must select at least {{minCount}} items to continue.",
+                                                                "maxSelectedCount": "You can only select up to {{maxCount}} items to continue.",
+                                                                "maxDate": "{{field}} should not contain date after {{- maxDate}}",
+                                                                "minDate": "{{field}} should not contain date before {{- minDate}}",
+                                                                "invalid_email": "{{field}} must be a valid email.",
+                                                                "invalid_url": "{{field}} must be a valid url.",
+                                                                "invalid_regex": "{{field}} does not match the pattern {{regex}}.",
+                                                                "invalid_date": "{{field}} is not a valid date.",
+                                                                "invalid_day": "{{field}} is not a valid day.",
+                                                                "mask": "{{field}} does not match the mask.",
+                                                                "stripe": "{{stripe}}",
+                                                                "month": "Month",
+                                                                "day": "Day",
+                                                                "year": "Year",
+                                                                "january": "January",
+                                                                "february": "February",
+                                                                "march": "March",
+                                                                "april": "April",
+                                                                "may": "May",
+                                                                "june": "June",
+                                                                "july": "July",
+                                                                "august": "August",
+                                                                "september": "September",
+                                                                "october": "October",
+                                                                "november": "November",
+                                                                "december": "December",
+                                                                "next": "Next",
+                                                                "previous": "Previous",
+                                                                "cancel": "Cancel",
+                                                                "submit": "Submit Form"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "validate": {
+                                                "customMessage": "",
+                                                "json": "",
+                                                "required": true
+                                            },
+                                            "conditional": {
+                                                "show": "",
+                                                "when": "",
+                                                "json": ""
+                                            },
+                                            "datePicker": {
+                                                "minDate": "",
+                                                "maxDate": ""
+                                            },
+                                            "encrypted": false,
+                                            "properties": {},
+                                            "customConditional": "",
+                                            "logic": [],
+                                            "enableTime": false,
+                                            "timePicker": {
+                                                "showMeridian": false
+                                            },
+                                            "reorder": false
+                                        },
+                                        {
+                                            "label": "Relation",
+                                            "mask": false,
+                                            "tableView": true,
+                                            "alwaysEnabled": false,
+                                            "type": "select",
+                                            "input": true,
+                                            "key": "relation",
+                                            "defaultValue": "",
+                                            "validate": {
+                                                "customMessage": "",
+                                                "json": "",
+                                                "required": true,
+                                                "select": false
+                                            },
+                                            "conditional": {
+                                                "show": "",
+                                                "when": "",
+                                                "json": ""
+                                            },
+                                            "data": {
+                                                "values": [
+                                                    {
+                                                        "label": "Self",
+                                                        "value": "self"
+                                                    },
+                                                    {
+                                                        "label": "Partner/Spouse",
+                                                        "value": "partnerSpouse"
+                                                    },
+                                                    {
+                                                        "label": "Child/Dependent",
+                                                        "value": "childDependent"
+                                                    }
+                                                ],
+                                                "maxRows": 100
+                                            },
+                                            "valueProperty": "value",
+                                            "selectThreshold": 0.3,
+                                            "encrypted": false,
+                                            "properties": {},
+                                            "customConditional": "",
+                                            "logic": [],
+                                            "lazyLoad": false,
+                                            "selectValues": "",
+                                            "disableLimit": false,
+                                            "sort": "",
+                                            "reference": false,
+                                            "reorder": false
+                                        }
+                                    ],
+                                    "properties": {},
+                                    "customConditional": "",
+                                    "nextPage": "",
+                                    "logic": [],
+                                    "row": "0-0",
+                                    "collapsed": false,
+                                    "reorder": false
+                                }
+                            ],
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": [],
+                            "groupToggle": false
+                        },
+                        {
+                            "label": "Total Number of Persons",
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "number",
+                            "input": true,
+                            "key": "totalNumberOfPersons",
+                            "validate": {
+                                "customMessage": "",
+                                "json": "",
+                                "required": true
+                            },
+                            "conditional": {
+                                "show": "",
+                                "when": "",
+                                "json": ""
+                            },
+                            "delimiter": false,
+                            "requireDecimal": false,
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": [],
+                            "reorder": false
+                        }
+                    ],
+                    "properties": {},
+                    "customConditional": "",
+                    "nextPage": "",
+                    "logic": [],
+                    "collapsed": false,
+                    "reorder": false
+                }
+            ],
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "properties": {},
+            "customConditional": "",
+            "nextPage": "",
+            "logic": [],
+            "collapsed": false,
+            "reorder": false
+        },
+        {
+            "label": "Page 2",
+            "title": "Travel Details",
+            "breadcrumbClickable": true,
+            "buttonSettings": {
+                "previous": true,
+                "cancel": true,
+                "next": true
+            },
+            "customClass": "pagebreak-here",
+            "collapsible": false,
+            "mask": false,
+            "tableView": false,
+            "alwaysEnabled": false,
+            "type": "panel",
+            "key": "page2",
+            "input": false,
+            "components": [
+                {
+                    "label": "Panel",
+                    "title": "Travel Details",
+                    "breadcrumbClickable": true,
+                    "buttonSettings": {
+                        "previous": true,
+                        "cancel": true,
+                        "next": true
+                    },
+                    "collapsible": false,
+                    "mask": false,
+                    "tableView": false,
+                    "alwaysEnabled": false,
+                    "type": "panel",
+                    "input": false,
+                    "key": "panel",
+                    "conditional": {
+                        "show": "",
+                        "when": "",
+                        "json": ""
+                    },
+                    "components": [
+                        {
+                            "label": "Countries visited during travel",
+                            "multiple": true,
+                            "reorder": false,
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "select",
+                            "input": true,
+                            "key": "countriesVisitedDuringTravel",
+                            "defaultValue": [],
+                            "validate": {
+                                "select": false,
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "",
+                                "when": "",
+                                "json": ""
+                            },
+                            "data": {
+                                "json": [
+                                    "United States",
+                                    "Canada",
+                                    "Afghanistan",
+                                    "Albania",
+                                    "Algeria",
+                                    "American Samoa",
+                                    "Andorra",
+                                    "Angola",
+                                    "Anguilla",
+                                    "Antarctica",
+                                    "Antigua and/or Barbuda",
+                                    "Argentina",
+                                    "Armenia",
+                                    "Aruba",
+                                    "Australia",
+                                    "Austria",
+                                    "Azerbaijan",
+                                    "Bahamas",
+                                    "Bahrain",
+                                    "Bangladesh",
+                                    "Barbados",
+                                    "Belarus",
+                                    "Belgium",
+                                    "Belize",
+                                    "Benin",
+                                    "Bermuda",
+                                    "Bhutan",
+                                    "Bolivia",
+                                    "Bosnia and Herzegovina",
+                                    "Botswana",
+                                    "Bouvet Island",
+                                    "Brazil",
+                                    "British lndian Ocean Territory",
+                                    "Brunei Darussalam",
+                                    "Bulgaria",
+                                    "Burkina Faso",
+                                    "Burundi",
+                                    "Cambodia",
+                                    "Cameroon",
+                                    "Cape Verde",
+                                    "Cayman Islands",
+                                    "Central African Republic",
+                                    "Chad",
+                                    "Chile",
+                                    "China",
+                                    "Christmas Island",
+                                    "Cocos (Keeling) Islands",
+                                    "Colombia",
+                                    "Comoros",
+                                    "Congo",
+                                    "Cook Islands",
+                                    "Costa Rica",
+                                    "Croatia (Hrvatska)",
+                                    "Cuba",
+                                    "Cyprus",
+                                    "Czech Republic",
+                                    "Denmark",
+                                    "Djibouti",
+                                    "Dominica",
+                                    "Dominican Republic",
+                                    "East Timor",
+                                    "Ecudaor",
+                                    "Egypt",
+                                    "El Salvador",
+                                    "Equatorial Guinea",
+                                    "Eritrea",
+                                    "Estonia",
+                                    "Ethiopia",
+                                    "Falkland Islands (Malvinas)",
+                                    "Faroe Islands",
+                                    "Fiji",
+                                    "Finland",
+                                    "France",
+                                    "France, Metropolitan",
+                                    "French Guiana",
+                                    "French Polynesia",
+                                    "French Southern Territories",
+                                    "Gabon",
+                                    "Gambia",
+                                    "Georgia",
+                                    "Germany",
+                                    "Ghana",
+                                    "Gibraltar",
+                                    "Greece",
+                                    "Greenland",
+                                    "Grenada",
+                                    "Guadeloupe",
+                                    "Guam",
+                                    "Guatemala",
+                                    "Guinea",
+                                    "Guinea-Bissau",
+                                    "Guyana",
+                                    "Haiti",
+                                    "Heard and Mc Donald Islands",
+                                    "Honduras",
+                                    "Hong Kong",
+                                    "Hungary",
+                                    "Iceland",
+                                    "India",
+                                    "Indonesia",
+                                    "Iran (Islamic Republic of)",
+                                    "Iraq",
+                                    "Ireland",
+                                    "Israel",
+                                    "Italy",
+                                    "Ivory Coast",
+                                    "Jamaica",
+                                    "Japan",
+                                    "Jordan",
+                                    "Kazakhstan",
+                                    "Kenya",
+                                    "Kiribati",
+                                    "Korea, Democratic People's Republic of",
+                                    "Korea, Republic of",
+                                    "Kuwait",
+                                    "Kyrgyzstan",
+                                    "Lao People's Democratic Republic",
+                                    "Latvia",
+                                    "Lebanon",
+                                    "Lesotho",
+                                    "Liberia",
+                                    "Libyan Arab Jamahiriya",
+                                    "Liechtenstein",
+                                    "Lithuania",
+                                    "Luxembourg",
+                                    "Macau",
+                                    "Macedonia",
+                                    "Madagascar",
+                                    "Malawi",
+                                    "Malaysia",
+                                    "Maldives",
+                                    "Mali",
+                                    "Malta",
+                                    "Marshall Islands",
+                                    "Martinique",
+                                    "Mauritania",
+                                    "Mauritius",
+                                    "Mayotte",
+                                    "Mexico",
+                                    "Micronesia, Federated States of",
+                                    "Moldova, Republic of",
+                                    "Monaco",
+                                    "Mongolia",
+                                    "Montserrat",
+                                    "Morocco",
+                                    "Mozambique",
+                                    "Myanmar",
+                                    "Namibia",
+                                    "Nauru",
+                                    "Nepal",
+                                    "Netherlands",
+                                    "Netherlands Antilles",
+                                    "New Caledonia",
+                                    "New Zealand",
+                                    "Nicaragua",
+                                    "Niger",
+                                    "Nigeria",
+                                    "Niue",
+                                    "Norfork Island",
+                                    "Northern Mariana Islands",
+                                    "Norway",
+                                    "Oman",
+                                    "Pakistan",
+                                    "Palau",
+                                    "Panama",
+                                    "Papua New Guinea",
+                                    "Paraguay",
+                                    "Peru",
+                                    "Philippines",
+                                    "Pitcairn",
+                                    "Poland",
+                                    "Portugal",
+                                    "Puerto Rico",
+                                    "Qatar",
+                                    "Reunion",
+                                    "Romania",
+                                    "Russian Federation",
+                                    "Rwanda",
+                                    "Saint Kitts and Nevis",
+                                    "Saint Lucia",
+                                    "Saint Vincent and the Grenadines",
+                                    "Samoa",
+                                    "San Marino",
+                                    "Sao Tome and Principe",
+                                    "Saudi Arabia",
+                                    "Senegal",
+                                    "Seychelles",
+                                    "Sierra Leone",
+                                    "Singapore",
+                                    "Slovakia",
+                                    "Slovenia",
+                                    "Solomon Islands",
+                                    "Somalia",
+                                    "South Africa",
+                                    "South Georgia South Sandwich Islands",
+                                    "Spain",
+                                    "Sri Lanka",
+                                    "St. Helena",
+                                    "St. Pierre and Miquelon",
+                                    "Sudan",
+                                    "Suriname",
+                                    "Svalbarn and Jan Mayen Islands",
+                                    "Swaziland",
+                                    "Sweden",
+                                    "Switzerland",
+                                    "Syrian Arab Republic",
+                                    "Taiwan",
+                                    "Tajikistan",
+                                    "Tanzania, United Republic of",
+                                    "Thailand",
+                                    "Togo",
+                                    "Tokelau",
+                                    "Tonga",
+                                    "Trinidad and Tobago",
+                                    "Tunisia",
+                                    "Turkey",
+                                    "Turkmenistan",
+                                    "Turks and Caicos Islands",
+                                    "Tuvalu",
+                                    "Uganda",
+                                    "Ukraine",
+                                    "United Arab Emirates",
+                                    "United Kingdom",
+                                    "United States minor outlying islands",
+                                    "Uruguay",
+                                    "Uzbekistan",
+                                    "Vanuatu",
+                                    "Vatican City State",
+                                    "Venezuela",
+                                    "Vietnam",
+                                    "Virigan Islands (British)",
+                                    "Virgin Islands (U.S.)",
+                                    "Wallis and Futuna Islands",
+                                    "Western Sahara",
+                                    "Yemen",
+                                    "Yugoslavia",
+                                    "Zaire",
+                                    "Zambia",
+                                    "Zimbabwe"
+                                ],
+                                "maxRows": 100,
+                                "values": []
+                            },
+                            "dataSrc": "json",
+                            "selectThreshold": 0.3,
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": [],
+                            "lazyLoad": false,
+                            "selectValues": "",
+                            "disableLimit": false,
+                            "sort": "",
+                            "reference": false
+                        },
+                        {
+                            "label": "Destination where majority of Journey is to be spent",
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "select",
+                            "input": true,
+                            "key": "destinationWhereMajorityOfJourneyIsToBeSpent",
+                            "defaultValue": "",
+                            "validate": {
+                                "select": false,
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "",
+                                "when": "",
+                                "json": ""
+                            },
+                            "data": {
+                                "json": [
+                                    "United States",
+                                    "Canada",
+                                    "Afghanistan",
+                                    "Albania",
+                                    "Algeria",
+                                    "American Samoa",
+                                    "Andorra",
+                                    "Angola",
+                                    "Anguilla",
+                                    "Antarctica",
+                                    "Antigua and/or Barbuda",
+                                    "Argentina",
+                                    "Armenia",
+                                    "Aruba",
+                                    "Australia",
+                                    "Austria",
+                                    "Azerbaijan",
+                                    "Bahamas",
+                                    "Bahrain",
+                                    "Bangladesh",
+                                    "Barbados",
+                                    "Belarus",
+                                    "Belgium",
+                                    "Belize",
+                                    "Benin",
+                                    "Bermuda",
+                                    "Bhutan",
+                                    "Bolivia",
+                                    "Bosnia and Herzegovina",
+                                    "Botswana",
+                                    "Bouvet Island",
+                                    "Brazil",
+                                    "British lndian Ocean Territory",
+                                    "Brunei Darussalam",
+                                    "Bulgaria",
+                                    "Burkina Faso",
+                                    "Burundi",
+                                    "Cambodia",
+                                    "Cameroon",
+                                    "Cape Verde",
+                                    "Cayman Islands",
+                                    "Central African Republic",
+                                    "Chad",
+                                    "Chile",
+                                    "China",
+                                    "Christmas Island",
+                                    "Cocos (Keeling) Islands",
+                                    "Colombia",
+                                    "Comoros",
+                                    "Congo",
+                                    "Cook Islands",
+                                    "Costa Rica",
+                                    "Croatia (Hrvatska)",
+                                    "Cuba",
+                                    "Cyprus",
+                                    "Czech Republic",
+                                    "Denmark",
+                                    "Djibouti",
+                                    "Dominica",
+                                    "Dominican Republic",
+                                    "East Timor",
+                                    "Ecudaor",
+                                    "Egypt",
+                                    "El Salvador",
+                                    "Equatorial Guinea",
+                                    "Eritrea",
+                                    "Estonia",
+                                    "Ethiopia",
+                                    "Falkland Islands (Malvinas)",
+                                    "Faroe Islands",
+                                    "Fiji",
+                                    "Finland",
+                                    "France",
+                                    "France, Metropolitan",
+                                    "French Guiana",
+                                    "French Polynesia",
+                                    "French Southern Territories",
+                                    "Gabon",
+                                    "Gambia",
+                                    "Georgia",
+                                    "Germany",
+                                    "Ghana",
+                                    "Gibraltar",
+                                    "Greece",
+                                    "Greenland",
+                                    "Grenada",
+                                    "Guadeloupe",
+                                    "Guam",
+                                    "Guatemala",
+                                    "Guinea",
+                                    "Guinea-Bissau",
+                                    "Guyana",
+                                    "Haiti",
+                                    "Heard and Mc Donald Islands",
+                                    "Honduras",
+                                    "Hong Kong",
+                                    "Hungary",
+                                    "Iceland",
+                                    "India",
+                                    "Indonesia",
+                                    "Iran (Islamic Republic of)",
+                                    "Iraq",
+                                    "Ireland",
+                                    "Israel",
+                                    "Italy",
+                                    "Ivory Coast",
+                                    "Jamaica",
+                                    "Japan",
+                                    "Jordan",
+                                    "Kazakhstan",
+                                    "Kenya",
+                                    "Kiribati",
+                                    "Korea, Democratic People's Republic of",
+                                    "Korea, Republic of",
+                                    "Kuwait",
+                                    "Kyrgyzstan",
+                                    "Lao People's Democratic Republic",
+                                    "Latvia",
+                                    "Lebanon",
+                                    "Lesotho",
+                                    "Liberia",
+                                    "Libyan Arab Jamahiriya",
+                                    "Liechtenstein",
+                                    "Lithuania",
+                                    "Luxembourg",
+                                    "Macau",
+                                    "Macedonia",
+                                    "Madagascar",
+                                    "Malawi",
+                                    "Malaysia",
+                                    "Maldives",
+                                    "Mali",
+                                    "Malta",
+                                    "Marshall Islands",
+                                    "Martinique",
+                                    "Mauritania",
+                                    "Mauritius",
+                                    "Mayotte",
+                                    "Mexico",
+                                    "Micronesia, Federated States of",
+                                    "Moldova, Republic of",
+                                    "Monaco",
+                                    "Mongolia",
+                                    "Montserrat",
+                                    "Morocco",
+                                    "Mozambique",
+                                    "Myanmar",
+                                    "Namibia",
+                                    "Nauru",
+                                    "Nepal",
+                                    "Netherlands",
+                                    "Netherlands Antilles",
+                                    "New Caledonia",
+                                    "New Zealand",
+                                    "Nicaragua",
+                                    "Niger",
+                                    "Nigeria",
+                                    "Niue",
+                                    "Norfork Island",
+                                    "Northern Mariana Islands",
+                                    "Norway",
+                                    "Oman",
+                                    "Pakistan",
+                                    "Palau",
+                                    "Panama",
+                                    "Papua New Guinea",
+                                    "Paraguay",
+                                    "Peru",
+                                    "Philippines",
+                                    "Pitcairn",
+                                    "Poland",
+                                    "Portugal",
+                                    "Puerto Rico",
+                                    "Qatar",
+                                    "Reunion",
+                                    "Romania",
+                                    "Russian Federation",
+                                    "Rwanda",
+                                    "Saint Kitts and Nevis",
+                                    "Saint Lucia",
+                                    "Saint Vincent and the Grenadines",
+                                    "Samoa",
+                                    "San Marino",
+                                    "Sao Tome and Principe",
+                                    "Saudi Arabia",
+                                    "Senegal",
+                                    "Seychelles",
+                                    "Sierra Leone",
+                                    "Singapore",
+                                    "Slovakia",
+                                    "Slovenia",
+                                    "Solomon Islands",
+                                    "Somalia",
+                                    "South Africa",
+                                    "South Georgia South Sandwich Islands",
+                                    "Spain",
+                                    "Sri Lanka",
+                                    "St. Helena",
+                                    "St. Pierre and Miquelon",
+                                    "Sudan",
+                                    "Suriname",
+                                    "Svalbarn and Jan Mayen Islands",
+                                    "Swaziland",
+                                    "Sweden",
+                                    "Switzerland",
+                                    "Syrian Arab Republic",
+                                    "Taiwan",
+                                    "Tajikistan",
+                                    "Tanzania, United Republic of",
+                                    "Thailand",
+                                    "Togo",
+                                    "Tokelau",
+                                    "Tonga",
+                                    "Trinidad and Tobago",
+                                    "Tunisia",
+                                    "Turkey",
+                                    "Turkmenistan",
+                                    "Turks and Caicos Islands",
+                                    "Tuvalu",
+                                    "Uganda",
+                                    "Ukraine",
+                                    "United Arab Emirates",
+                                    "United Kingdom",
+                                    "United States minor outlying islands",
+                                    "Uruguay",
+                                    "Uzbekistan",
+                                    "Vanuatu",
+                                    "Vatican City State",
+                                    "Venezuela",
+                                    "Vietnam",
+                                    "Virigan Islands (British)",
+                                    "Virgin Islands (U.S.)",
+                                    "Wallis and Futuna Islands",
+                                    "Western Sahara",
+                                    "Yemen",
+                                    "Yugoslavia",
+                                    "Zaire",
+                                    "Zambia",
+                                    "Zimbabwe"
+                                ],
+                                "maxRows": 100,
+                                "values": []
+                            },
+                            "dataSrc": "json",
+                            "selectThreshold": 0.3,
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": [],
+                            "reorder": false,
+                            "lazyLoad": false,
+                            "selectValues": "",
+                            "disableLimit": false,
+                            "sort": "",
+                            "reference": false
+                        },
+                        {
+                            "label": "Columns",
+                            "columns": [
+                                {
+                                    "components": [
+                                        {
+                                            "label": "Departure Date",
+                                            "format": "yyyy-MM-dd",
+                                            "mask": false,
+                                            "tableView": true,
+                                            "alwaysEnabled": false,
+                                            "type": "datetime",
+                                            "input": true,
+                                            "key": "dateTime",
+                                            "suffix": true,
+                                            "defaultValue": "",
+                                            "widget": {
+                                                "type": "calendar",
+                                                "displayInTimezone": "viewer",
+                                                "language": "en",
+                                                "useLocaleSettings": false,
+                                                "allowInput": true,
+                                                "mode": "single",
+                                                "enableTime": false,
+                                                "noCalendar": false,
+                                                "format": "yyyy-MM-dd",
+                                                "defaultDate": "",
+                                                "hourIncrement": 1,
+                                                "minuteIncrement": 1,
+                                                "time_24hr": true,
+                                                "minDate": "",
+                                                "maxDate": "",
+                                                "icons": "",
+                                                "i18n": {
+                                                    "lng": "en",
+                                                    "resources": {
+                                                        "en": {
+                                                            "translation": {
+                                                                "complete": "Submission Complete",
+                                                                "error": "Please fix the following errors before submitting.",
+                                                                "required": "{{field}} is required",
+                                                                "pattern": "{{field}} does not match the pattern {{pattern}}",
+                                                                "minLength": "{{field}} must be longer than {{length}} characters.",
+                                                                "maxLength": "{{field}} must be shorter than {{length}} characters.",
+                                                                "min": "{{field}} cannot be less than {{min}}.",
+                                                                "max": "{{field}} cannot be greater than {{max}}.",
+                                                                "minSelectedCount": "You must select at least {{minCount}} items to continue.",
+                                                                "maxSelectedCount": "You can only select up to {{maxCount}} items to continue.",
+                                                                "maxDate": "{{field}} should not contain date after {{- maxDate}}",
+                                                                "minDate": "{{field}} should not contain date before {{- minDate}}",
+                                                                "invalid_email": "{{field}} must be a valid email.",
+                                                                "invalid_url": "{{field}} must be a valid url.",
+                                                                "invalid_regex": "{{field}} does not match the pattern {{regex}}.",
+                                                                "invalid_date": "{{field}} is not a valid date.",
+                                                                "invalid_day": "{{field}} is not a valid day.",
+                                                                "mask": "{{field}} does not match the mask.",
+                                                                "stripe": "{{stripe}}",
+                                                                "month": "Month",
+                                                                "day": "Day",
+                                                                "year": "Year",
+                                                                "january": "January",
+                                                                "february": "February",
+                                                                "march": "March",
+                                                                "april": "April",
+                                                                "may": "May",
+                                                                "june": "June",
+                                                                "july": "July",
+                                                                "august": "August",
+                                                                "september": "September",
+                                                                "october": "October",
+                                                                "november": "November",
+                                                                "december": "December",
+                                                                "next": "Next",
+                                                                "previous": "Previous",
+                                                                "cancel": "Cancel",
+                                                                "submit": "Submit Form"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "validate": {
+                                                "customMessage": "",
+                                                "json": ""
+                                            },
+                                            "conditional": {
+                                                "show": "",
+                                                "when": "",
+                                                "json": ""
+                                            },
+                                            "enableTime": false,
+                                            "datePicker": {
+                                                "minDate": "",
+                                                "maxDate": ""
+                                            },
+                                            "timePicker": {
+                                                "showMeridian": false
+                                            },
+                                            "encrypted": false,
+                                            "properties": {},
+                                            "customConditional": "",
+                                            "logic": [],
+                                            "reorder": false
+                                        }
+                                    ],
+                                    "width": 6,
+                                    "offset": 0,
+                                    "push": 0,
+                                    "pull": 0,
+                                    "type": "column",
+                                    "hideOnChildrenHidden": false,
+                                    "input": true,
+                                    "key": "column1",
+                                    "tableView": true,
+                                    "label": ""
+                                },
+                                {
+                                    "components": [
+                                        {
+                                            "label": "Return Date",
+                                            "format": "yyyy-MM-dd",
+                                            "mask": false,
+                                            "tableView": true,
+                                            "alwaysEnabled": false,
+                                            "type": "datetime",
+                                            "input": true,
+                                            "key": "dateTime2",
+                                            "suffix": true,
+                                            "defaultValue": "",
+                                            "widget": {
+                                                "type": "calendar",
+                                                "displayInTimezone": "viewer",
+                                                "language": "en",
+                                                "useLocaleSettings": false,
+                                                "allowInput": true,
+                                                "mode": "single",
+                                                "enableTime": false,
+                                                "noCalendar": false,
+                                                "format": "yyyy-MM-dd",
+                                                "defaultDate": "",
+                                                "hourIncrement": 1,
+                                                "minuteIncrement": 1,
+                                                "time_24hr": true,
+                                                "minDate": "",
+                                                "maxDate": "",
+                                                "icons": "",
+                                                "i18n": {
+                                                    "lng": "en",
+                                                    "resources": {
+                                                        "en": {
+                                                            "translation": {
+                                                                "complete": "Submission Complete",
+                                                                "error": "Please fix the following errors before submitting.",
+                                                                "required": "{{field}} is required",
+                                                                "pattern": "{{field}} does not match the pattern {{pattern}}",
+                                                                "minLength": "{{field}} must be longer than {{length}} characters.",
+                                                                "maxLength": "{{field}} must be shorter than {{length}} characters.",
+                                                                "min": "{{field}} cannot be less than {{min}}.",
+                                                                "max": "{{field}} cannot be greater than {{max}}.",
+                                                                "minSelectedCount": "You must select at least {{minCount}} items to continue.",
+                                                                "maxSelectedCount": "You can only select up to {{maxCount}} items to continue.",
+                                                                "maxDate": "{{field}} should not contain date after {{- maxDate}}",
+                                                                "minDate": "{{field}} should not contain date before {{- minDate}}",
+                                                                "invalid_email": "{{field}} must be a valid email.",
+                                                                "invalid_url": "{{field}} must be a valid url.",
+                                                                "invalid_regex": "{{field}} does not match the pattern {{regex}}.",
+                                                                "invalid_date": "{{field}} is not a valid date.",
+                                                                "invalid_day": "{{field}} is not a valid day.",
+                                                                "mask": "{{field}} does not match the mask.",
+                                                                "stripe": "{{stripe}}",
+                                                                "month": "Month",
+                                                                "day": "Day",
+                                                                "year": "Year",
+                                                                "january": "January",
+                                                                "february": "February",
+                                                                "march": "March",
+                                                                "april": "April",
+                                                                "may": "May",
+                                                                "june": "June",
+                                                                "july": "July",
+                                                                "august": "August",
+                                                                "september": "September",
+                                                                "october": "October",
+                                                                "november": "November",
+                                                                "december": "December",
+                                                                "next": "Next",
+                                                                "previous": "Previous",
+                                                                "cancel": "Cancel",
+                                                                "submit": "Submit Form"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "validate": {
+                                                "customMessage": "",
+                                                "json": ""
+                                            },
+                                            "conditional": {
+                                                "show": "",
+                                                "when": "",
+                                                "json": ""
+                                            },
+                                            "enableTime": false,
+                                            "datePicker": {
+                                                "minDate": "",
+                                                "maxDate": ""
+                                            },
+                                            "timePicker": {
+                                                "showMeridian": false
+                                            },
+                                            "encrypted": false,
+                                            "properties": {},
+                                            "customConditional": "",
+                                            "logic": [],
+                                            "reorder": false
+                                        }
+                                    ],
+                                    "width": 6,
+                                    "offset": 0,
+                                    "push": 0,
+                                    "pull": 0,
+                                    "type": "column",
+                                    "hideOnChildrenHidden": false,
+                                    "input": true,
+                                    "key": "column2",
+                                    "tableView": true,
+                                    "label": ""
+                                }
+                            ],
+                            "mask": false,
+                            "tableView": false,
+                            "alwaysEnabled": false,
+                            "type": "columns",
+                            "input": false,
+                            "key": "columns",
+                            "conditional": {
+                                "show": "",
+                                "when": "",
+                                "json": ""
+                            },
+                            "reorder": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": []
+                        }
+                    ],
+                    "collapsed": false,
+                    "reorder": false,
+                    "properties": {},
+                    "customConditional": "",
+                    "nextPage": "",
+                    "logic": []
+                },
+                {
+                    "label": "Number of days of coverage",
+                    "placeholder": "(will be filled automatically)",
+                    "mask": false,
+                    "disabled": true,
+                    "tableView": true,
+                    "alwaysEnabled": false,
+                    "type": "number",
+                    "input": true,
+                    "key": "number",
+                    "calculateValue": "var ONE_DAY = 1000 * 60 * 60 * 24;\r\n\r\n// Convert both dates to milliseconds\r\nvar date1_ms = Date.parse(data.dateTime);\r\nvar date2_ms = Date.parse(data.dateTime2);\r\n\r\n// Calculate the difference in milliseconds\r\nvar difference_ms = Math.abs(date2_ms - date1_ms);\r\n\r\n// Convert back to days and return\r\nreturn Math.round(difference_ms/ONE_DAY);",
+                    "validate": {
+                        "customMessage": "",
+                        "json": ""
+                    },
+                    "conditional": {
+                        "show": "",
+                        "when": "",
+                        "json": ""
+                    },
+                    "delimiter": false,
+                    "requireDecimal": false,
+                    "encrypted": false,
+                    "properties": {},
+                    "customConditional": "",
+                    "logic": [],
+                    "reorder": false
+                }
+            ],
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "properties": {},
+            "customConditional": "",
+            "nextPage": "",
+            "logic": [],
+            "collapsed": false,
+            "reorder": false
+        },
+        {
+            "label": "Page 3",
+            "title": "Pre-existing ",
+            "breadcrumbClickable": true,
+            "buttonSettings": {
+                "previous": true,
+                "cancel": true,
+                "next": true
+            },
+            "customClass": "pagebreak-here",
+            "collapsible": false,
+            "mask": false,
+            "tableView": false,
+            "alwaysEnabled": false,
+            "type": "panel",
+            "key": "page3",
+            "input": false,
+            "components": [
+                {
+                    "label": "Do you have any pre-existing medical conditions?",
+                    "optionsLabelPosition": "right",
+                    "values": [
+                        {
+                            "label": "Yes",
+                            "value": "yes",
+                            "shortcut": ""
+                        },
+                        {
+                            "label": "No",
+                            "value": "no",
+                            "shortcut": ""
+                        }
+                    ],
+                    "inline": false,
+                    "mask": false,
+                    "tableView": true,
+                    "alwaysEnabled": false,
+                    "type": "radio",
+                    "input": true,
+                    "key": "doYouHaveAnyPreExistingMedicalConditions",
+                    "defaultValue": "",
+                    "validate": {
+                        "customMessage": "",
+                        "json": "",
+                        "required": true
+                    },
+                    "conditional": {
+                        "show": "",
+                        "when": "",
+                        "json": ""
+                    },
+                    "encrypted": false,
+                    "properties": {},
+                    "customConditional": "",
+                    "logic": [],
+                    "reorder": false
+                },
+                {
+                    "label": "Panel",
+                    "hideLabel": true,
+                    "breadcrumbClickable": true,
+                    "buttonSettings": {
+                        "previous": true,
+                        "cancel": true,
+                        "next": true
+                    },
+                    "collapsible": false,
+                    "mask": false,
+                    "tableView": false,
+                    "alwaysEnabled": false,
+                    "type": "panel",
+                    "input": false,
+                    "key": "panel4",
+                    "conditional": {
+                        "show": "true",
+                        "when": "doYouHaveAnyPreExistingMedicalConditions",
+                        "json": "",
+                        "eq": "yes"
+                    },
+                    "components": [
+                        {
+                            "label": "Are any of your pre-existing conditions listed under the heading 'Medical conditions which automatically exclude coverage' in the PDS manual?",
+                            "optionsLabelPosition": "right",
+                            "values": [
+                                {
+                                    "label": "Yes",
+                                    "value": "yes",
+                                    "shortcut": ""
+                                },
+                                {
+                                    "label": "No",
+                                    "value": "no",
+                                    "shortcut": ""
+                                }
+                            ],
+                            "inline": false,
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "radio",
+                            "input": true,
+                            "key": "areAnyOfYourPreExistingConditionsListedUnderTheHeadingMedicalConditionsWhichAutomaticallyExcludeCoverageInThePdsManual",
+                            "defaultValue": "",
+                            "validate": {
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "",
+                                "when": "",
+                                "json": ""
+                            },
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": [],
+                            "reorder": false
+                        },
+                        {
+                            "label": "HTML",
+                            "className": "",
+                            "attrs": [
+                                {
+                                    "attr": "",
+                                    "value": ""
+                                }
+                            ],
+                            "content": "&lt;h6&gt;&lt;b&gt;Please note:&lt;/b&gt; We are unable to offer a travel insurance policy that provides any benefits for medical or hospital expenses whatsoever. If you have any of the conditions which are excluded, travel insurance is still available to you if your purchase a plan that does not include medical coveraged. However, there will be no provision to claim under certain sections of the Policy for any claims arising from, related to, or associated with any Injury or Sickness suffered by you.&lt;/h6&gt;",
+                            "refreshOnChange": false,
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "htmlelement",
+                            "input": false,
+                            "key": "html3",
+                            "validate": {
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "true",
+                                "when": "areAnyOfYourPreExistingConditionsListedUnderTheHeadingMedicalConditionsWhichAutomaticallyExcludeCoverageInThePdsManual",
+                                "json": "",
+                                "eq": "yes"
+                            },
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": [],
+                            "reorder": false
+                        },
+                        {
+                            "label": "Do you have a pre-existing medical condition that is not listed in the PSD, and for which you would like to apply for cover for the Journey?",
+                            "optionsLabelPosition": "right",
+                            "values": [
+                                {
+                                    "label": "Yes",
+                                    "value": "yes",
+                                    "shortcut": ""
+                                },
+                                {
+                                    "label": "No",
+                                    "value": "no",
+                                    "shortcut": ""
+                                }
+                            ],
+                            "inline": false,
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "radio",
+                            "input": true,
+                            "key": "doYouHaveAPreExistingMedicalConditionThatIsNotListedInThePsdAndForWhichYouWouldLikeToApplyForCoverForTheJourney",
+                            "defaultValue": "",
+                            "validate": {
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "",
+                                "when": "",
+                                "json": ""
+                            },
+                            "reorder": false,
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": []
+                        },
+                        {
+                            "label": "Please describe your additional pre-existing condition",
+                            "allowMultipleMasks": false,
+                            "showWordCount": false,
+                            "showCharCount": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "textfield",
+                            "input": true,
+                            "key": "pleaseDescribeYourAdditionalPreExistingCondition",
+                            "defaultValue": "",
+                            "validate": {
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "true",
+                                "when": "doYouHaveAPreExistingMedicalConditionThatIsNotListedInThePsdAndForWhichYouWouldLikeToApplyForCoverForTheJourney",
+                                "json": "",
+                                "eq": "yes"
+                            },
+                            "inputFormat": "plain",
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": [],
+                            "reorder": false
+                        }
+                    ],
+                    "properties": {},
+                    "customConditional": "",
+                    "nextPage": "",
+                    "logic": [],
+                    "collapsed": false,
+                    "reorder": false
+                }
+            ],
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "properties": {},
+            "customConditional": "",
+            "nextPage": "",
+            "logic": [],
+            "collapsed": false,
+            "reorder": false
+        },
+        {
+            "label": "Page 4",
+            "title": "Personal Belongings",
+            "breadcrumbClickable": true,
+            "buttonSettings": {
+                "previous": true,
+                "cancel": true,
+                "next": true
+            },
+            "customClass": "pagebreak-here",
+            "collapsible": false,
+            "mask": false,
+            "tableView": false,
+            "alwaysEnabled": false,
+            "type": "panel",
+            "key": "page4",
+            "input": false,
+            "components": [
+                {
+                    "label": "Panel",
+                    "title": "Personal Belongings",
+                    "breadcrumbClickable": true,
+                    "buttonSettings": {
+                        "previous": true,
+                        "cancel": true,
+                        "next": true
+                    },
+                    "collapsible": false,
+                    "mask": false,
+                    "tableView": false,
+                    "alwaysEnabled": false,
+                    "type": "panel",
+                    "input": false,
+                    "key": "panel5",
+                    "conditional": {
+                        "show": "",
+                        "when": "",
+                        "json": ""
+                    },
+                    "components": [
+                        {
+                            "label": "Do you wish to insure any personal belongings?",
+                            "optionsLabelPosition": "right",
+                            "values": [
+                                {
+                                    "label": "Yes",
+                                    "value": "yes",
+                                    "shortcut": ""
+                                },
+                                {
+                                    "label": "No",
+                                    "value": "no",
+                                    "shortcut": ""
+                                }
+                            ],
+                            "inline": false,
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "radio",
+                            "input": true,
+                            "key": "doYouWishToInsureAnyPersonalBelongings",
+                            "defaultValue": "",
+                            "validate": {
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "",
+                                "when": "",
+                                "json": ""
+                            },
+                            "reorder": false,
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": []
+                        },
+                        {
+                            "label": "Personal Effects",
+                            "disableAddingRemovingRows": false,
+                            "addAnother": "",
+                            "addAnotherPosition": "bottom",
+                            "removePlacement": "col",
+                            "defaultOpen": false,
+                            "layoutFixed": false,
+                            "enableRowGroups": false,
+                            "reorder": false,
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "datagrid",
+                            "input": true,
+                            "key": "personalEffects",
+                            "validate": {
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "true",
+                                "when": "doYouWishToInsureAnyPersonalBelongings",
+                                "json": "",
+                                "eq": "yes"
+                            },
+                            "components": [
+                                {
+                                    "label": "Item",
+                                    "allowMultipleMasks": false,
+                                    "showWordCount": false,
+                                    "showCharCount": false,
+                                    "tableView": true,
+                                    "alwaysEnabled": false,
+                                    "type": "textfield",
+                                    "input": true,
+                                    "key": "item",
+                                    "defaultValue": "",
+                                    "validate": {
+                                        "customMessage": "",
+                                        "json": ""
+                                    },
+                                    "conditional": {
+                                        "show": "",
+                                        "when": "",
+                                        "json": ""
+                                    },
+                                    "reorder": false,
+                                    "inputFormat": "plain",
+                                    "encrypted": false,
+                                    "properties": {},
+                                    "customConditional": "",
+                                    "logic": [],
+                                    "row": "0-0"
+                                },
+                                {
+                                    "label": "Sum Insured",
+                                    "mask": false,
+                                    "tableView": true,
+                                    "alwaysEnabled": false,
+                                    "type": "currency",
+                                    "input": true,
+                                    "key": "value",
+                                    "validate": {
+                                        "customMessage": "",
+                                        "json": ""
+                                    },
+                                    "conditional": {
+                                        "show": "",
+                                        "when": "",
+                                        "json": ""
+                                    },
+                                    "delimiter": true,
+                                    "currency": "SGD",
+                                    "encrypted": false,
+                                    "properties": {},
+                                    "customConditional": "",
+                                    "logic": [],
+                                    "row": "0-1",
+                                    "reorder": false
+                                }
+                            ],
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": [],
+                            "groupToggle": false
+                        },
+                        {
+                            "label": "Please attach valuation/receipt for any personal belongings you wish to insure.",
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "file",
+                            "input": true,
+                            "key": "attachValuationReceiptForInsuredPersonalBelongings",
+                            "validate": {
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "true",
+                                "when": "doYouWishToInsureAnyPersonalBelongings",
+                                "json": "",
+                                "eq": "yes"
+                            },
+                            "url": "",
+                            "options": "",
+                            "dir": "",
+                            "webcam": false,
+                            "webcamSize": "",
+                            "fileTypes": [
+                                {
+                                    "label": "",
+                                    "value": ""
+                                }
+                            ],
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": [],
+                            "reorder": false
+                        }
+                    ],
+                    "collapsed": false,
+                    "reorder": false,
+                    "properties": {},
+                    "customConditional": "",
+                    "nextPage": "",
+                    "logic": []
+                },
+                {
+                    "label": "Panel",
+                    "title": "Bicycle Coverage",
+                    "breadcrumbClickable": true,
+                    "buttonSettings": {
+                        "previous": true,
+                        "cancel": true,
+                        "next": true
+                    },
+                    "collapsible": false,
+                    "mask": false,
+                    "tableView": false,
+                    "alwaysEnabled": false,
+                    "type": "panel",
+                    "input": false,
+                    "key": "panel6",
+                    "conditional": {
+                        "show": "",
+                        "when": "",
+                        "json": ""
+                    },
+                    "components": [
+                        {
+                            "label": "Do you wish to insure a bicycle?",
+                            "optionsLabelPosition": "right",
+                            "values": [
+                                {
+                                    "label": "Yes",
+                                    "value": "yes",
+                                    "shortcut": ""
+                                },
+                                {
+                                    "label": "No",
+                                    "value": "no",
+                                    "shortcut": ""
+                                }
+                            ],
+                            "inline": false,
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "radio",
+                            "input": true,
+                            "key": "doYouWishToInsureABicycle",
+                            "defaultValue": "",
+                            "validate": {
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "",
+                                "when": "",
+                                "json": ""
+                            },
+                            "reorder": false,
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": []
+                        },
+                        {
+                            "label": "Data Grid",
+                            "hideLabel": true,
+                            "disableAddingRemovingRows": false,
+                            "addAnother": "",
+                            "addAnotherPosition": "bottom",
+                            "removePlacement": "col",
+                            "defaultOpen": false,
+                            "layoutFixed": false,
+                            "enableRowGroups": false,
+                            "reorder": false,
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "datagrid",
+                            "input": true,
+                            "key": "dataGrid2",
+                            "validate": {
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "true",
+                                "when": "doYouWishToInsureABicycle",
+                                "json": "",
+                                "eq": "yes"
+                            },
+                            "components": [
+                                {
+                                    "label": "Bicycle Make",
+                                    "allowMultipleMasks": false,
+                                    "showWordCount": false,
+                                    "showCharCount": false,
+                                    "tableView": true,
+                                    "alwaysEnabled": false,
+                                    "type": "textfield",
+                                    "input": true,
+                                    "key": "bicycleMake",
+                                    "defaultValue": "",
+                                    "validate": {
+                                        "customMessage": "",
+                                        "json": ""
+                                    },
+                                    "conditional": {
+                                        "show": "",
+                                        "when": "",
+                                        "json": ""
+                                    },
+                                    "reorder": false,
+                                    "inputFormat": "plain",
+                                    "encrypted": false,
+                                    "properties": {},
+                                    "customConditional": "",
+                                    "logic": [],
+                                    "row": "0-0"
+                                },
+                                {
+                                    "label": "Sum Insured",
+                                    "mask": false,
+                                    "tableView": true,
+                                    "alwaysEnabled": false,
+                                    "type": "currency",
+                                    "input": true,
+                                    "key": "sumInsured",
+                                    "validate": {
+                                        "customMessage": "",
+                                        "json": ""
+                                    },
+                                    "conditional": {
+                                        "show": "",
+                                        "when": "",
+                                        "json": ""
+                                    },
+                                    "delimiter": true,
+                                    "currency": "SGD",
+                                    "encrypted": false,
+                                    "reorder": false,
+                                    "properties": {},
+                                    "customConditional": "",
+                                    "logic": [],
+                                    "row": "0-1"
+                                }
+                            ],
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": [],
+                            "groupToggle": false
+                        },
+                        {
+                            "label": "Please attach valuation/receipt for all bicycles you wish to insure.",
+                            "mask": false,
+                            "tableView": true,
+                            "alwaysEnabled": false,
+                            "type": "file",
+                            "input": true,
+                            "key": "pleaseAttachValuationReceiptForAllBicyclesYouWishToInsure",
+                            "validate": {
+                                "customMessage": "",
+                                "json": ""
+                            },
+                            "conditional": {
+                                "show": "true",
+                                "when": "doYouWishToInsureABicycle",
+                                "json": "",
+                                "eq": "yes"
+                            },
+                            "webcam": false,
+                            "fileTypes": [
+                                {
+                                    "label": "",
+                                    "value": ""
+                                }
+                            ],
+                            "encrypted": false,
+                            "properties": {},
+                            "customConditional": "",
+                            "logic": [],
+                            "reorder": false,
+                            "url": "",
+                            "options": "",
+                            "dir": "",
+                            "webcamSize": ""
+                        }
+                    ],
+                    "collapsed": false,
+                    "reorder": false,
+                    "properties": {},
+                    "customConditional": "",
+                    "nextPage": "",
+                    "logic": []
+                }
+            ],
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "properties": {},
+            "customConditional": "",
+            "nextPage": "",
+            "logic": [],
+            "collapsed": false,
+            "reorder": false
+        },
+        {
+            "label": "Page 5",
+            "title": "Signature",
+            "breadcrumbClickable": true,
+            "buttonSettings": {
+                "previous": true,
+                "cancel": true,
+                "next": true
+            },
+            "customClass": "pagebreak-here",
+            "collapsible": false,
+            "mask": false,
+            "tableView": false,
+            "alwaysEnabled": false,
+            "type": "panel",
+            "key": "page5",
+            "input": false,
+            "components": [
+                {
+                    "label": "HTML",
+                    "className": "",
+                    "attrs": [
+                        {
+                            "attr": "",
+                            "value": ""
+                        }
+                    ],
+                    "content": "&lt;p&gt;I/we acknowledge that a copy of the Financial Services Guide (FSG) and Product Disclosure Statement (PDS) was provided to me/us before I/we applied for insurance, and that I/we have made the decision to purchase the Policy after carefully reading the terms and conditions contained in the PDS, and agree that this product is suitable for my/our needs.&lt;/p&gt;\n&lt;p&gt;I/we acknowledge that I/we have read and understood the Duty of Disclosure and the consequences of non-disclosure&lt;/p&gt;\n&lt;p&gt;I/we authorize any doctor or clinic to provide Moyasure Global Assistance with information concerning my/our current or past medical history. I/we have read the Privacy Notice and I/we consent to the collection, use and disclosure of my/our personal information with Moyasure to such persons and for such purposes stated in the Privacy Notice.&lt;/p&gt;\n&lt;p&gt;I/we acknowledge that this Policy does not automatically provide cover for Pre-Existing Medical Conditions.&lt;/p&gt;\n&lt;p&gt;I/we agree to abide with the terms and conditions of this Policy and confirm that the above information is correct.&lt;/p&gt;",
+                    "refreshOnChange": false,
+                    "mask": false,
+                    "tableView": true,
+                    "alwaysEnabled": false,
+                    "type": "htmlelement",
+                    "input": false,
+                    "key": "html4",
+                    "validate": {
+                        "customMessage": "",
+                        "json": ""
+                    },
+                    "conditional": {
+                        "show": "",
+                        "when": "",
+                        "json": ""
+                    },
+                    "reorder": false,
+                    "encrypted": false,
+                    "properties": {},
+                    "customConditional": "",
+                    "logic": []
+                },
+                {
+                    "label": "Columns",
+                    "columns": [
+                        {
+                            "components": [
+                                {
+                                    "label": "Signature",
+                                    "footer": "Please sign above",
+                                    "mask": false,
+                                    "tableView": true,
+                                    "alwaysEnabled": false,
+                                    "type": "signature",
+                                    "input": true,
+                                    "key": "signature",
+                                    "defaultValue": "",
+                                    "validate": {
+                                        "customMessage": "",
+                                        "json": "",
+                                        "required": true
+                                    },
+                                    "conditional": {
+                                        "show": "",
+                                        "when": "",
+                                        "json": ""
+                                    },
+                                    "encrypted": false,
+                                    "properties": {},
+                                    "customConditional": "",
+                                    "logic": [],
+                                    "reorder": false
+                                }
+                            ],
+                            "width": 6,
+                            "offset": 0,
+                            "push": 0,
+                            "pull": 0,
+                            "type": "column",
+                            "hideOnChildrenHidden": false,
+                            "input": true,
+                            "key": "column3",
+                            "tableView": true,
+                            "label": ""
+                        },
+                        {
+                            "components": [
+                                {
+                                    "label": "Date / Time",
+                                    "format": "yyyy-MM-dd",
+                                    "mask": false,
+                                    "tableView": true,
+                                    "alwaysEnabled": false,
+                                    "type": "datetime",
+                                    "input": true,
+                                    "key": "dateTime3",
+                                    "suffix": true,
+                                    "defaultValue": "",
+                                    "widget": {
+                                        "type": "calendar",
+                                        "displayInTimezone": "viewer",
+                                        "language": "en",
+                                        "useLocaleSettings": false,
+                                        "allowInput": true,
+                                        "mode": "single",
+                                        "enableTime": false,
+                                        "noCalendar": false,
+                                        "format": "yyyy-MM-dd",
+                                        "defaultDate": "",
+                                        "hourIncrement": 1,
+                                        "minuteIncrement": 1,
+                                        "time_24hr": true,
+                                        "minDate": "",
+                                        "maxDate": "",
+                                        "icons": "",
+                                        "i18n": {
+                                            "lng": "en",
+                                            "resources": {
+                                                "en": {
+                                                    "translation": {
+                                                        "complete": "Submission Complete",
+                                                        "error": "Please fix the following errors before submitting.",
+                                                        "required": "{{field}} is required",
+                                                        "pattern": "{{field}} does not match the pattern {{pattern}}",
+                                                        "minLength": "{{field}} must be longer than {{length}} characters.",
+                                                        "maxLength": "{{field}} must be shorter than {{length}} characters.",
+                                                        "min": "{{field}} cannot be less than {{min}}.",
+                                                        "max": "{{field}} cannot be greater than {{max}}.",
+                                                        "minSelectedCount": "You must select at least {{minCount}} items to continue.",
+                                                        "maxSelectedCount": "You can only select up to {{maxCount}} items to continue.",
+                                                        "maxDate": "{{field}} should not contain date after {{- maxDate}}",
+                                                        "minDate": "{{field}} should not contain date before {{- minDate}}",
+                                                        "invalid_email": "{{field}} must be a valid email.",
+                                                        "invalid_url": "{{field}} must be a valid url.",
+                                                        "invalid_regex": "{{field}} does not match the pattern {{regex}}.",
+                                                        "invalid_date": "{{field}} is not a valid date.",
+                                                        "invalid_day": "{{field}} is not a valid day.",
+                                                        "mask": "{{field}} does not match the mask.",
+                                                        "stripe": "{{stripe}}",
+                                                        "month": "Month",
+                                                        "day": "Day",
+                                                        "year": "Year",
+                                                        "january": "January",
+                                                        "february": "February",
+                                                        "march": "March",
+                                                        "april": "April",
+                                                        "may": "May",
+                                                        "june": "June",
+                                                        "july": "July",
+                                                        "august": "August",
+                                                        "september": "September",
+                                                        "october": "October",
+                                                        "november": "November",
+                                                        "december": "December",
+                                                        "next": "Next",
+                                                        "previous": "Previous",
+                                                        "cancel": "Cancel",
+                                                        "submit": "Submit Form"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "validate": {
+                                        "customMessage": "",
+                                        "json": ""
+                                    },
+                                    "conditional": {
+                                        "show": "",
+                                        "when": "",
+                                        "json": ""
+                                    },
+                                    "enableTime": false,
+                                    "datePicker": {
+                                        "minDate": "",
+                                        "maxDate": ""
+                                    },
+                                    "timePicker": {
+                                        "showMeridian": false
+                                    },
+                                    "reorder": false,
+                                    "encrypted": false,
+                                    "properties": {},
+                                    "customConditional": "",
+                                    "logic": []
+                                }
+                            ],
+                            "width": 6,
+                            "offset": 0,
+                            "push": 0,
+                            "pull": 0,
+                            "type": "column",
+                            "hideOnChildrenHidden": false,
+                            "input": true,
+                            "key": "column4",
+                            "tableView": true,
+                            "label": ""
+                        }
+                    ],
+                    "mask": false,
+                    "tableView": false,
+                    "alwaysEnabled": false,
+                    "type": "columns",
+                    "input": false,
+                    "key": "columns2",
+                    "conditional": {
+                        "show": "",
+                        "when": "",
+                        "json": ""
+                    },
+                    "reorder": false,
+                    "properties": {},
+                    "customConditional": "",
+                    "logic": []
+                }
+            ],
+            "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+            },
+            "properties": {},
+            "customConditional": "",
+            "nextPage": "",
+            "logic": [],
+            "collapsed": false,
+            "reorder": false
+        }
+    ],
+    "settings": {},
+    "display": "wizard"
+}</FDef><DCrea>20190606082016577</DCrea><FFold>-2</FFold><FCreUs>1</FCreUs><FCreUsNam>ADOS\gogg</FCreUsNam><IxProfNo>-1</IxProfNo><DefSubmNo>141</DefSubmNo><Id>D1BB9B52-D68F-4E04-89E5-4960C3E5C21C</Id></EForm>
+</EForms><WFProcesses></WFProcesses><Preprocessors></Preprocessors><FormImgs></FormImgs><Forms></Forms><CntConnSrcs></CntConnSrcs><ReportDefinitions></ReportDefinitions><PowerBIDataSets></PowerBIDataSets><PowerBITables></PowerBITables><References></References></Configuration>

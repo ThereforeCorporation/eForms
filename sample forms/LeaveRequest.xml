@@ -1,0 +1,506 @@
+<Configuration><Version>352321537</Version><Folders><Folder><FolderNo>-1</FolderNo><Type>3</Type><Name UPT="1"><TStr><T><L>1033</L><S>HR</S></T></TStr></Name><Id>C0CDAD31-2951-460D-A9B5-6435683C533E</Id></Folder>
+<Folder><FolderNo>-2</FolderNo><Type>47</Type><Name UPT="1"><TStr><T><L>1033</L><S>HR</S></T></TStr></Name><Id>630EBDA1-A388-4990-ADE0-23B7FE0668E6</Id></Folder>
+</Folders><Datatypes></Datatypes><KeywordDictionaries><Dictionary><KeyDicNo>-1</KeyDicNo><NextNo>12</NextNo><SingleTypeNo>-1</SingleTypeNo><MulitTypeNo>-2</MulitTypeNo><KeyDicName>Departments</KeyDicName><KeyDicTable>TheKeywords124</KeyDicTable><DocuKeywordTable>TheDocuKey124</DocuKeywordTable><Keywords><KW><KeywordNo>2</KeywordNo><Keyword UPT="1"><TStr><T><L>1033</L><S>Sales</S></T></TStr></Keyword><Id>D7FA5651-2869-40E7-BFF0-183E8A9C0806</Id></KW><KW><KeywordNo>3</KeywordNo><Keyword UPT="1"><TStr><T><L>1033</L><S>Marketing</S></T></TStr></Keyword><Id>6ECCB263-2E5E-4411-AA08-B4E51E23C1D7</Id></KW><KW><KeywordNo>4</KeywordNo><Keyword UPT="1"><TStr><T><L>1033</L><S>Development</S></T></TStr></Keyword><Id>DA338E19-B2B1-4F4B-A8E2-895F293DB3BA</Id></KW><KW><KeywordNo>5</KeywordNo><Keyword UPT="1"><TStr><T><L>1033</L><S>Customer Service</S></T></TStr></Keyword><Id>50923D7D-B15C-460B-A2C8-AC0AF344E4E9</Id></KW><KW><KeywordNo>6</KeywordNo><Keyword UPT="1"><TStr><T><L>1033</L><S>Management</S></T></TStr></Keyword><Deleted>1</Deleted><Id>72599E3C-617F-4756-BB79-06C30F028E0A</Id></KW><KW><KeywordNo>7</KeywordNo><Keyword UPT="1"><TStr><T><L>1033</L><S>Support</S></T></TStr></Keyword><Id>5865D586-CC17-4BB1-A9CC-109133027B02</Id></KW><KW><KeywordNo>8</KeywordNo><Keyword UPT="1"><TStr><T><L>1033</L><S>Dep1</S></T></TStr></Keyword><Id>66C60064-B06C-4865-9805-0E3F765CD6D1</Id></KW><KW><KeywordNo>10</KeywordNo><Keyword UPT="1"><TStr><T><L>1033</L><S>Dep4</S></T></TStr></Keyword><Id>B1748AEF-22C0-46B1-AB63-AD7442A80AF7</Id></KW><KW><KeywordNo>11</KeywordNo><Keyword UPT="1"><TStr><T><L>1033</L><S>Dep2</S></T></TStr></Keyword><Id>949AD59D-C25B-47FC-9261-78D0624627C7</Id></KW><KW><KeywordNo>12</KeywordNo><Keyword UPT="1"><TStr><T><L>1033</L><S>Finance</S></T></TStr></Keyword><Id>0916D267-7607-4B62-8895-1203EEF15446</Id></KW></Keywords><Id>B0AAFA2F-32AA-488A-A684-C642C77BADEF</Id></Dictionary>
+</KeywordDictionaries><Counters></Counters><CloudStorages></CloudStorages><Templates></Templates><CaseDefinitions></CaseDefinitions><Categories><Category><CtgryNo>-1</CtgryNo><Name UPT="1"><TStr><T><L>1033</L><S>Vacation Request</S></T></TStr></Name><Version>0</Version><Fields><Field><FieldNo>-6</FieldNo><ColName>End_Date</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>End Date</S></T></TStr></Caption><TypeNo>3</TypeNo><Length>4</Length><Width>69</Width><Height>12</Height><PosX>81</PosX><PosY>49</PosY><TabOrderPos>3</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>3</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>32BF74A6-2F7E-4B1F-97C8-90D266128699</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>End_Date</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-5</FieldNo><ColName>Start_Date</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Start Date</S></T></TStr></Caption><TypeNo>3</TypeNo><Length>4</Length><Width>69</Width><Height>12</Height><PosX>81</PosX><PosY>31</PosY><TabOrderPos>2</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>2</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>6CEB83C1-7C87-4010-8E2A-440E5E8DD926</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Start_Date</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-4</FieldNo><ColName>Name</ColName><Caption UPT="1"><TStr><T><L>1033</L><S>Name</S></T></TStr></Caption><TypeNo>1</TypeNo><Length>50</Length><Width>123</Width><Height>12</Height><PosX>81</PosX><PosY>12</PosY><TabOrderPos>1</TabOrderPos><DontLoadValues>1</DontLoadValues><DispOrderPos>1</DispOrderPos><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>4A65E5F3-C446-48AC-8AA6-C5168E0DFD62</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Name</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-3</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>End Date</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>15</PosX><PosY>50</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>F925D62C-520E-4D90-A20D-9D029F25CA3F</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_End_Date</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-2</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Start Date</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>15</PosX><PosY>33</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>36347D82-4058-4F43-849A-F97718719D9E</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Start_Date</FieldID><DisplayPropCond></DisplayPropCond></Field><Field><FieldNo>-1</FieldNo><Caption UPT="1"><TStr><T><L>1033</L><S>Name</S></T></TStr></Caption><TypeNo>4</TypeNo><Width>63</Width><Height>10</Height><PosX>15</PosX><PosY>14</PosY><RegExHelp UPT="1"><TStr></TStr></RegExHelp><Links></Links><Id>C39163F6-89AF-4EE2-A459-969D1E6ADC78</Id><DisplayProp></DisplayProp><TabInfo FactoryType="0"></TabInfo><FieldID>Label_Name</FieldID><DisplayPropCond></DisplayPropCond></Field></Fields><Title>Vacation REquest</Title><Width>289</Width><Height>90</Height><FolderNo>-1</FolderNo><Watermark><DocNo>0</DocNo></Watermark><FulltextMode>1</FulltextMode><FulltextDate>18991230</FulltextDate><CheckInMode>1</CheckInMode><Description UPT="1"><TStr></TStr></Description><Header><Font></Font></Header><Id>73CC114E-585F-451B-AAB2-CD910A5EBD2B</Id><EmptyDocMode>1</EmptyDocMode><CoverMode>1</CoverMode></Category>
+</Categories><QueryTemplates></QueryTemplates><Queries></Queries><TreeViews></TreeViews><CommonScripts></CommonScripts><CaptProfiles></CaptProfiles><IxProfiles><IxProfile><Name>EForms - Employee Leave Request</Name><InitScript></InitScript><Filter></Filter><FolderNo>0</FolderNo><IndexingProfileNo>-1</IndexingProfileNo><AutoAppendMode>0</AutoAppendMode><ProfileType>14</ProfileType><Assignments><Assignment><FieldNo>-4</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.name")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment><Assignment><FieldNo>-5</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.dayOfLeave1")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment><Assignment><FieldNo>-6</FieldNo><CheckCondition></CheckCondition><ErrorFallback></ErrorFallback><Expression>GetValue("data.dayOfReturn1")</Expression><ErrorMode>4</ErrorMode><ErrorEmpty>0</ErrorEmpty><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId></Assignment></Assignments><Id>F95B5C01-F88E-4559-A421-302017EECF20</Id><DataExes></DataExes><SourceDefId><DefNo>0</DefNo><IsCase>0</IsCase></SourceDefId><DefId><DefNo>-1</DefNo><IsCase>0</IsCase></DefId><CommonScripts></CommonScripts></IxProfile>
+</IxProfiles><OfficeProfiles></OfficeProfiles><UCProfiles></UCProfiles><EForms><EForm><FNo>-1</FNo><FVer>1</FVer><FName>Employee Leave Request</FName><FDef>{
+  "components": [
+    {
+      "label": "HTML",
+      "className": "",
+      "attrs": [
+        {
+          "attr": "",
+          "value": ""
+        }
+      ],
+      "content": "&lt;h2&gt;Employee Leave Request&lt;/h2&gt;",
+      "refreshOnChange": false,
+      "mask": false,
+      "tableView": true,
+      "alwaysEnabled": false,
+      "type": "htmlelement",
+      "input": false,
+      "key": "html",
+      "validate": {
+        "customMessage": "",
+        "json": ""
+      },
+      "conditional": {
+        "show": "",
+        "when": "",
+        "json": ""
+      },
+      "reorder": false,
+      "encrypted": false,
+      "properties": {},
+      "customConditional": "",
+      "logic": []
+    },
+    {
+      "label": "HTML",
+      "className": "",
+      "attrs": [
+        {
+          "attr": "",
+          "value": ""
+        }
+      ],
+      "content": "&lt;p&gt;Please submit this form for approval at least four weeks in advance of your preferred leave dates.&lt;/p&gt;",
+      "refreshOnChange": false,
+      "mask": false,
+      "tableView": true,
+      "alwaysEnabled": false,
+      "type": "htmlelement",
+      "input": false,
+      "key": "html2",
+      "validate": {
+        "customMessage": "",
+        "json": ""
+      },
+      "conditional": {
+        "show": "",
+        "when": "",
+        "json": ""
+      },
+      "reorder": false,
+      "encrypted": false,
+      "properties": {},
+      "customConditional": "",
+      "logic": []
+    },
+    {
+      "label": "Name",
+      "allowMultipleMasks": false,
+      "showWordCount": false,
+      "showCharCount": false,
+      "tableView": true,
+      "alwaysEnabled": false,
+      "type": "textfield",
+      "input": true,
+      "key": "name",
+      "defaultValue": "",
+      "validate": {
+        "required": true,
+        "customMessage": "",
+        "json": ""
+      },
+      "conditional": {
+        "show": "",
+        "when": "",
+        "json": ""
+      },
+      "reorder": false,
+      "inputFormat": "plain",
+      "encrypted": false,
+      "properties": {},
+      "customConditional": "",
+      "logic": []
+    },
+    {
+      "label": "Job Title",
+      "allowMultipleMasks": false,
+      "showWordCount": false,
+      "showCharCount": false,
+      "tableView": true,
+      "alwaysEnabled": false,
+      "type": "textfield",
+      "input": true,
+      "key": "jobTitle",
+      "defaultValue": "",
+      "validate": {
+        "customMessage": "",
+        "json": ""
+      },
+      "conditional": {
+        "show": "",
+        "when": "",
+        "json": ""
+      },
+      "reorder": false,
+      "inputFormat": "plain",
+      "encrypted": false,
+      "properties": {},
+      "customConditional": "",
+      "logic": []
+    },
+    {
+      "label": "Department",
+      "mask": false,
+      "tableView": true,
+      "alwaysEnabled": false,
+      "type": "select",
+      "input": true,
+      "key": "department",
+      "defaultValue": "",
+      "validate": {
+        "required": true,
+        "customMessage": "",
+        "json": "",
+        "select": false
+      },
+      "conditional": {
+        "show": "",
+        "when": "",
+        "json": ""
+      },
+      "data": {
+        "the": {
+          "label": "Departments",
+          "value": -1
+        },
+        "maxRows": 100,
+        "values": []
+      },
+      "dataSrc": "therefore",
+      "valueProperty": "value",
+      "selectThreshold": 0.3,
+      "encrypted": false,
+      "properties": {},
+      "customConditional": "",
+      "logic": [],
+      "reorder": false,
+      "lazyLoad": false,
+      "selectValues": "",
+      "disableLimit": false,
+      "sort": "",
+      "reference": false
+    },
+    {
+      "label": "Reason for Leave Request",
+      "mask": false,
+      "tableView": true,
+      "alwaysEnabled": false,
+      "type": "select",
+      "input": true,
+      "key": "reasonForLeaveRequest",
+      "defaultValue": "",
+      "validate": {
+        "select": false,
+        "customMessage": "",
+        "json": ""
+      },
+      "conditional": {
+        "show": "",
+        "when": "",
+        "json": ""
+      },
+      "data": {
+        "values": [
+          {
+            "label": "Medical",
+            "value": "medical"
+          },
+          {
+            "label": "Holiday",
+            "value": "holiday"
+          }
+        ],
+        "maxRows": 100
+      },
+      "valueProperty": "value",
+      "selectThreshold": 0.3,
+      "encrypted": false,
+      "reorder": false,
+      "lazyLoad": false,
+      "selectValues": "",
+      "disableLimit": false,
+      "sort": "",
+      "reference": false,
+      "properties": {},
+      "customConditional": "",
+      "logic": []
+    },
+    {
+      "label": "Panel",
+      "title": "Medical Documentation",
+      "collapsible": false,
+      "mask": false,
+      "tableView": false,
+      "alwaysEnabled": false,
+      "type": "panel",
+      "input": false,
+      "key": "panel2",
+      "conditional": {
+        "show": "true",
+        "when": "reasonForLeaveRequest",
+        "json": "",
+        "eq": "medical"
+      },
+      "components": [
+        {
+          "label": "HTML",
+          "className": "",
+          "attrs": [
+            {
+              "attr": "",
+              "value": ""
+            }
+          ],
+          "content": "&lt;p&gt;Please upload documentation from your medical provider indicating your need for medical absence from work.&lt;/p&gt;",
+          "refreshOnChange": false,
+          "mask": false,
+          "tableView": true,
+          "alwaysEnabled": false,
+          "type": "htmlelement",
+          "input": false,
+          "key": "html3",
+          "validate": {
+            "customMessage": "",
+            "json": ""
+          },
+          "conditional": {
+            "show": "",
+            "when": "",
+            "json": ""
+          },
+          "reorder": false,
+          "encrypted": false,
+          "properties": {},
+          "customConditional": "",
+          "logic": []
+        },
+        {
+          "label": "Medical Documentation",
+          "hideLabel": true,
+          "mask": false,
+          "tableView": true,
+          "alwaysEnabled": false,
+          "type": "file",
+          "input": true,
+          "key": "medicalDocumentation",
+          "validate": {
+            "customMessage": "",
+            "json": ""
+          },
+          "conditional": {
+            "show": "",
+            "when": "",
+            "json": ""
+          },
+          "url": "",
+          "options": "",
+          "dir": "",
+          "webcam": false,
+          "webcamSize": "",
+          "fileTypes": [
+            {
+              "label": "",
+              "value": ""
+            }
+          ],
+          "encrypted": false,
+          "properties": {},
+          "customConditional": "",
+          "logic": [],
+          "reorder": false
+        }
+      ],
+      "properties": {},
+      "customConditional": "",
+      "logic": [],
+      "collapsed": false,
+      "reorder": false
+    },
+    {
+      "label": "Columns",
+      "columns": [
+        {
+          "components": [
+            {
+              "label": "Day of leave",
+              "hideInputLabels": false,
+              "inputsLabelPosition": "top",
+              "fields": {
+                "day": {
+                  "hide": false,
+                  "type": "number"
+                },
+                "month": {
+                  "hide": false,
+                  "type": "select"
+                },
+                "year": {
+                  "hide": false,
+                  "type": "number"
+                }
+              },
+              "useLocaleSettings": false,
+              "mask": false,
+              "tableView": true,
+              "alwaysEnabled": false,
+              "type": "day",
+              "input": true,
+              "key": "dayOfLeave1",
+              "validate": {
+                "customMessage": "The start date must be in the future!",
+                "json": "",
+                "custom": "// Convert both dates to milliseconds\r\nvar date1_ms = Date.parse(data.dayOfLeave1);\r\nvar date2_ms = Date.now();\r\nvalid = (date1_ms &gt; date2_ms);"
+              },
+              "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+              },
+              "encrypted": false,
+              "maxDate": "",
+              "minDate": "",
+              "properties": {},
+              "customConditional": "",
+              "logic": [],
+              "tags": [],
+              "reorder": false
+            }
+          ],
+          "width": 6,
+          "offset": 0,
+          "push": 0,
+          "pull": 0,
+          "type": "column",
+          "hideOnChildrenHidden": false,
+          "input": true,
+          "key": "column1",
+          "tableView": true,
+          "label": ""
+        },
+        {
+          "components": [
+            {
+              "label": "Day of return",
+              "hideInputLabels": false,
+              "inputsLabelPosition": "top",
+              "fields": {
+                "day": {
+                  "hide": false,
+                  "type": "number"
+                },
+                "month": {
+                  "hide": false,
+                  "type": "select"
+                },
+                "year": {
+                  "hide": false,
+                  "type": "number"
+                }
+              },
+              "useLocaleSettings": false,
+              "mask": false,
+              "tableView": true,
+              "alwaysEnabled": false,
+              "type": "day",
+              "input": true,
+              "key": "dayOfReturn1",
+              "validate": {
+                "customMessage": "The day of return must be after then the day of leave!",
+                "json": "",
+                "custom": "// Convert both dates to milliseconds\r\nvar date1_ms = Date.parse(data.dayOfLeave1);\r\nvar date2_ms = Date.parse(data.dayOfReturn1);\r\nvalid = (date2_ms &gt; date1_ms);"
+              },
+              "conditional": {
+                "show": "",
+                "when": "",
+                "json": ""
+              },
+              "encrypted": false,
+              "maxDate": "",
+              "minDate": "",
+              "properties": {},
+              "customConditional": "",
+              "logic": [],
+              "tags": [],
+              "reorder": false
+            }
+          ],
+          "width": 6,
+          "offset": 0,
+          "push": 0,
+          "pull": 0,
+          "type": "column",
+          "hideOnChildrenHidden": false,
+          "input": true,
+          "key": "column3",
+          "tableView": true,
+          "label": ""
+        }
+      ],
+      "mask": false,
+      "tableView": false,
+      "alwaysEnabled": false,
+      "type": "columns",
+      "input": false,
+      "key": "columns2",
+      "conditional": {
+        "show": "",
+        "when": "",
+        "json": ""
+      },
+      "reorder": false,
+      "properties": {},
+      "customConditional": "",
+      "logic": []
+    },
+    {
+      "label": "Number of days requested",
+      "mask": false,
+      "disabled": true,
+      "tableView": true,
+      "alwaysEnabled": false,
+      "type": "number",
+      "input": true,
+      "key": "numberOfDaysRequested",
+      "calculateValue": "var ONE_DAY = 1000 * 60 * 60 * 24;\r\n\r\n// Convert both dates to milliseconds\r\nvar date1_ms = Date.parse(data.dayOfLeave1);\r\nvar date2_ms = Date.parse(data.dayOfReturn1);\r\n\r\n// Calculate the difference in milliseconds\r\nvar difference_ms = Math.abs(date2_ms - date1_ms);\r\n\r\n// Convert back to days and return\r\nreturn Math.round(difference_ms/ONE_DAY);",
+      "validate": {
+        "customMessage": "",
+        "json": ""
+      },
+      "conditional": {
+        "show": "",
+        "when": "",
+        "json": ""
+      },
+      "delimiter": false,
+      "requireDecimal": false,
+      "encrypted": false,
+      "properties": {},
+      "customConditional": "",
+      "logic": [],
+      "reorder": false
+    },
+    {
+      "label": "Signature",
+      "hideLabel": true,
+      "mask": false,
+      "tableView": true,
+      "alwaysEnabled": false,
+      "type": "signature",
+      "input": true,
+      "key": "signature2",
+      "defaultValue": "",
+      "validate": {
+        "customMessage": "",
+        "json": ""
+      },
+      "conditional": {
+        "show": "",
+        "when": "",
+        "json": ""
+      },
+      "reorder": false,
+      "encrypted": false,
+      "properties": {},
+      "customConditional": "",
+      "logic": []
+    },
+    {
+      "type": "button",
+      "label": "Submit",
+      "key": "submit",
+      "disableOnInvalid": true,
+      "theme": "primary",
+      "input": true,
+      "tableView": true
+    }
+  ],
+  "settings": {},
+  "display": "form"
+}</FDef><DCrea>20190606092056693</DCrea><FFold>-2</FFold><FCreUs>1</FCreUs><FCreUsNam>ADOS\gogg</FCreUsNam><IxProfNo>-1</IxProfNo><DefSubmNo>143</DefSubmNo><Id>137388DC-0B2D-4EA2-BC0F-EF58679C880C</Id></EForm>
+</EForms><WFProcesses></WFProcesses><Preprocessors></Preprocessors><FormImgs></FormImgs><Forms></Forms><CntConnSrcs></CntConnSrcs><ReportDefinitions></ReportDefinitions><PowerBIDataSets></PowerBIDataSets><PowerBITables></PowerBITables><References></References></Configuration>
