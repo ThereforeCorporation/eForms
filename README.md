@@ -66,5 +66,5 @@ We welcome contributions from everyone — whether it's fixing a typo, suggestin
 ---
 
 ### 🙋 Need Help?
-If you’re unsure or have questions, feel free to [open an issue](https://github.com/YOUR-ontact us directly.
+If you’re unsure or have questions, feel free to open an issue with us.
 
